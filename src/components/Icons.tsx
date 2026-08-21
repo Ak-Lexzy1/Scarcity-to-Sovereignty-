@@ -34,7 +34,8 @@ export function IconCoin(props: IconProps) {
   return (
     <svg viewBox="0 0 48 48" {...base} {...props}>
       <circle cx="24" cy="24" r="17" />
-      <path d="M24 14v20M18 20a6 6 0 0 1 6-4c4.5 0 6.5 2.2 6.5 5s-3 3.8-6.5 4.8-6.5 2-6.5 5.2 3 5 6.5 5a6 6 0 0 0 6-4" />
+      <path d="M24 12v24" />
+      <path d="M30 18c0-2.8-2.7-5-6-5s-6 2.2-6 5c0 6 12 3.5 12 9.5 0 2.8-2.7 5-6 5s-6-2.2-6-5" />
     </svg>
   );
 }
