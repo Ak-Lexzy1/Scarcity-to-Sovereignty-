@@ -25,8 +25,8 @@ export default async function BlogPage({
       <div className="mb-4 text-center">
         <p className="text-[11px] uppercase tracking-[0.25em] text-gold">The Blog</p>
         <h1 className="mt-2 font-serif text-4xl font-semibold text-navy">
-          Money &amp; Mindset, By Segment
-        </h1>
+  Money, Wealth &amp; Mindset
+</h1>
       </div>
 
       {/* Segment filter tabs */}
