@@ -18,9 +18,14 @@ export async function generateMetadata({
     const { slug } = await params;
     const post = await getPostBySlug(slug);
     return {
-      title: post.title,
-      description: post.excerpt,
-    };
+        title: post.title,
+        description: post.excerpt,
+        openGraph: {
+          title: post.title,
+          description: post.excerpt,
+          type: "article",
+        },
+      };
   } catch {
     return { title: "Post Not Found" };
   }
