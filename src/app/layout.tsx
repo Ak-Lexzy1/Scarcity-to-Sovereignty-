@@ -19,12 +19,23 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://scarcity-to-sovereignty.vercel.app"),
   title: {
     default: "Scarcity to Sovereignty | Money & Mindset",
     template: "%s | Scarcity to Sovereignty",
   },
   description:
     "Where scarcity thinking ends & wealth clarity starts. Practical money habits and mindset shifts for people building real financial freedom.",
+  openGraph: {
+    type: "website",
+    siteName: "Scarcity to Sovereignty",
+    title: "Scarcity to Sovereignty | Money & Mindset",
+    description:
+      "Where scarcity thinking ends & wealth clarity starts. Practical money habits and mindset shifts for people building real financial freedom.",
+  },
+  twitter: {
+    card: "summary_large_image",
+  },
 };
 
 export default function RootLayout({
