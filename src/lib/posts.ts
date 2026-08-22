@@ -24,6 +24,7 @@ export interface PostMeta {
   excerpt: string;
   segment: SegmentSlug;
   icon: string;
+  image?: string;
   date: string;
   readTime: string;
 }
