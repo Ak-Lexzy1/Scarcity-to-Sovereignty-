@@ -71,15 +71,16 @@ export async function getPostBySlug(slug: string): Promise<Post> {
   const contentHtml = processedContent.toString();
 
   return {
-    slug,
-    title: data.title,
-    excerpt: data.excerpt,
-    segment: data.segment as SegmentSlug,
-    icon: data.icon,
-    date: data.date,
-    readTime: data.readTime,
-    contentHtml,
-  };
+      slug,
+      title: data.title,
+      excerpt: data.excerpt,
+      segment: data.segment as SegmentSlug,
+      icon: data.icon,
+      image: findPostImage(slug),
+      date: data.date,
+      readTime: data.readTime,
+      contentHtml,
+    };
 }
 
 export function getPostsBySegment(segment: SegmentSlug): PostMeta[] {
