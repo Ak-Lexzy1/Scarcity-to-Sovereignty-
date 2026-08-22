@@ -4,7 +4,7 @@ import Link from "next/link";
 import { getAllPostSlugs, getPostBySlug } from "@/lib/posts";
 import { getSegment } from "@/lib/segments";
 import { PostIcon } from "@/components/Icons";
-
+import Image from "next/image";
 export async function generateStaticParams() {
   return getAllPostSlugs().map((slug) => ({ slug }));
 }
@@ -65,10 +65,21 @@ export default async function BlogPostPage({
         </p>
       </div>
 
-      <div className="my-12 flex h-64 items-center justify-center rounded-xl bg-navy">
-        <PostIcon name={post!.icon} className="h-20 w-20 stroke-gold" />
-      </div>
-
+      <div className="relative my-12 h-72 overflow-hidden rounded-xl bg-navy md:h-96">
+          {post!.image ? (
+            <Image
+              src={post!.image}
+              alt={post!.title}
+              fill
+              className="object-cover"
+              priority
+            />
+          ) : (
+            <div className="flex h-full w-full items-center justify-center">
+              <PostIcon name={post!.icon} className="h-20 w-20 stroke-gold" />
+            </div>
+          )}
+        </div>
       <div
         className="prose prose-lg mx-auto max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-a:text-gold prose-blockquote:border-gold prose-blockquote:font-serif prose-blockquote:text-navy prose-strong:text-navy"
         dangerouslySetInnerHTML={{ __html: post!.contentHtml }}
