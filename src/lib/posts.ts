@@ -4,7 +4,18 @@ import matter from "gray-matter";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
 import type { SegmentSlug } from "./segments";
+function findPostImage(slug: string): string | undefined {
+  const extensions = ["jpg", "jpeg", "png", "webp"];
+  const imagesDir = path.join(process.cwd(), "public/images/posts");
 
+  for (const ext of extensions) {
+    const filePath = path.join(imagesDir, `${slug}.${ext}`);
+    if (fs.existsSync(filePath)) {
+      return `/images/posts/${slug}.${ext}`;
+    }
+  }
+  return undefined;
+}
 const postsDirectory = path.join(process.cwd(), "src/content/posts");
 
 export interface PostMeta {
