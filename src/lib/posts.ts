@@ -53,6 +53,7 @@ export function getAllPostsMeta(): PostMeta[] {
       excerpt: data.excerpt,
       segment: data.segment as SegmentSlug,
       icon: data.icon,
+      image: findPostImage(slug),
       date: data.date,
       readTime: data.readTime,
     };
