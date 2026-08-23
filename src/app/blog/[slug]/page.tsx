@@ -85,7 +85,11 @@ export default async function BlogPostPage({
         dangerouslySetInnerHTML={{ __html: post!.contentHtml }}
       />
 
-      <div className="mt-16 border-t border-navy/10 pt-10 text-center">
+      <div className="mt-16 border-t border-navy/10 pt-10">
+        <NewsletterForm />
+      </div>
+
+      <div className="mt-10 text-center">
         <Link
           href="/blog"
           className="text-[11px] font-semibold uppercase tracking-[0.15em] text-navy hover:text-gold"
