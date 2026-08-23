@@ -6,6 +6,7 @@ import { getSegment } from "@/lib/segments";
 import { PostIcon } from "@/components/Icons";
 import Image from "next/image";
 import NewsletterForm from "@/components/NewsletterForm";
+import AdSlot from "@/components/AdSlot";
 export async function generateStaticParams() {
   return getAllPostSlugs().map((slug) => ({ slug }));
 }
@@ -65,7 +66,7 @@ export default async function BlogPostPage({
           Scarcity to Sovereignty &middot; {post!.readTime} &middot; {post!.date}
         </p>
       </div>
-
+<AdSlot label="Ad Slot — Top of Post" />
       <div className="relative my-12 h-72 overflow-hidden rounded-xl bg-navy md:h-96">
           {post!.image ? (
             <Image
@@ -85,7 +86,7 @@ export default async function BlogPostPage({
         className="prose prose-lg mx-auto max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-a:text-gold prose-blockquote:border-gold prose-blockquote:font-serif prose-blockquote:text-navy prose-strong:text-navy"
         dangerouslySetInnerHTML={{ __html: post!.contentHtml }}
       />
-
+<AdSlot label="Ad Slot — End of Post" />
       <div className="mt-16 border-t border-navy/10 pt-10">
         <NewsletterForm />
       </div>
