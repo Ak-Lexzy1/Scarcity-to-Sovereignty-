@@ -7,6 +7,7 @@ import { PostIcon } from "@/components/Icons";
 import Image from "next/image";
 import NewsletterForm from "@/components/NewsletterForm";
 import AdSlot from "@/components/AdSlot";
+import AffiliateDisclosure from "@/components/AffiliateDisclosure";
 export async function generateStaticParams() {
   return getAllPostSlugs().map((slug) => ({ slug }));
 }
@@ -67,6 +68,7 @@ export default async function BlogPostPage({
         </p>
       </div>
 <AdSlot label="Ad Slot — Top of Post" />
+      {post!.hasAffiliateLinks && <AffiliateDisclosure />}
       <div className="relative my-12 h-72 overflow-hidden rounded-xl bg-navy md:h-96">
           {post!.image ? (
             <Image
