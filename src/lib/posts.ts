@@ -25,6 +25,7 @@ export interface PostMeta {
   segment: SegmentSlug;
   icon: string;
   image?: string;
+  hasAffiliateLinks?: boolean;
   date: string;
   readTime: string;
 }
@@ -54,6 +55,7 @@ export function getAllPostsMeta(): PostMeta[] {
       segment: data.segment as SegmentSlug,
       icon: data.icon,
       image: findPostImage(slug),
+      hasAffiliateLinks: data.hasAffiliateLinks ?? false,
       date: data.date,
       readTime: data.readTime,
     };
