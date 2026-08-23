@@ -5,6 +5,7 @@ import { getAllPostSlugs, getPostBySlug } from "@/lib/posts";
 import { getSegment } from "@/lib/segments";
 import { PostIcon } from "@/components/Icons";
 import Image from "next/image";
+import NewsletterForm from "@/components/NewsletterForm";
 export async function generateStaticParams() {
   return getAllPostSlugs().map((slug) => ({ slug }));
 }
