@@ -12,7 +12,7 @@ import {
   BookOpen, GraduationCap, PenTool, FileText, ClipboardList, ClipboardCheck,
   CheckCircle2, CircleDollarSign, DollarSign, Infinity, Repeat, RefreshCw,
   Layers, Building, Factory, Store, Package, Boxes,
-  Umbrella, LifeBuoy, Anchor, Mountain, TreePine, Leaf, Seedling,
+  Umbrella, LifeBuoy, Anchor, Mountain, TreePine, Leaf, Sprout,
   Puzzle, Wrench, Settings, Cog, Filter, Search,
   Smile, ThumbsUp, HandCoins, Landmark as Bank, Scale, Gavel,
   AlertCircle, AlertTriangle, Info, HelpCircle, Ban, XCircle,
@@ -139,7 +139,7 @@ export const iconMap: Record<string, LucideIcon> = {
   mountain: Mountain,
   tree: TreePine,
   leaf: Leaf,
-  seedling: Seedling,
+  seedling: Sprout,
 
   // Problem-solving
   puzzle: Puzzle,
@@ -167,3 +167,12 @@ export function PostIcon({
   const Icon = iconMap[name] ?? Compass;
   return <Icon {...props} />;
 }
+export const IconBudget = Calculator;
+export const IconGrowth = TrendingUp;
+export const IconCoin = Coins;
+export const IconMindset = Brain;
+export const IconLaptop = Laptop;
+export const IconCompass = Compass;
+export const IconShield = Shield;
+export const IconKey = Key;
+export const IconLock = Lock;
