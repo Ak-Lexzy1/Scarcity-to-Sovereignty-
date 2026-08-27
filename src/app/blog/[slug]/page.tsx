@@ -64,7 +64,7 @@ export default async function BlogPostPage({
           {post!.title}
         </h1>
         <p className="mt-4 text-xs uppercase tracking-[0.1em] text-navy/50">
-          Scarcity to Sovereignty &middot; {post!.readTime} &middot; {post!.date}
+          Scarcity to Sovereignty &middot; {post!.readTime}
         </p>
       </div>
 <AdSlot label="Ad Slot — Top of Post" />
