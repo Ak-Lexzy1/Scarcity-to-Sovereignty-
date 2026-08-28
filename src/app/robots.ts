@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://scarcity-to-sovereignty.vercel.app/sitemap.xml",
+    sitemap: "https://scarcity2sovereignty.com/sitemap.xml",
   };
 }
