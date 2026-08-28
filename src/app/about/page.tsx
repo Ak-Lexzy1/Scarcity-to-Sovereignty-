@@ -92,7 +92,7 @@ export default function AboutPage() {
 
         <p>
           <strong>
-            Scarcity to Sovereignty exists because I had to learn, the hard
+            Scarcity 2 Sovereignty exists because I had to learn, the hard
             way, that financial freedom starts in the mind long before it
             shows up in a bank account.
           </strong>
