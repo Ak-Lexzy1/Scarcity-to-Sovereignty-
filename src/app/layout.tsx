@@ -22,15 +22,15 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   metadataBase: new URL("https://scarcity-to-sovereignty.vercel.app"),
   title: {
-    default: "Scarcity to Sovereignty | Money & Mindset",
-    template: "%s | Scarcity to Sovereignty",
+    default: "Scarcity 2 Sovereignty | Money & Mindset",
+    template: "%s | Scarcity 2 Sovereignty",
   },
   description:
     "Where scarcity thinking ends & wealth clarity starts. Practical money habits and mindset shifts for people building real financial freedom.",
   openGraph: {
     type: "website",
-    siteName: "Scarcity to Sovereignty",
-    title: "Scarcity to Sovereignty | Money & Mindset",
+    siteName: "Scarcity 2 Sovereignty",
+    title: "Scarcity 2 Sovereignty | Money & Mindset",
     description:
       "Where scarcity thinking ends & wealth clarity starts. Practical money habits and mindset shifts for people building real financial freedom.",
   },
