@@ -18,7 +18,7 @@ export default function PrivacyPolicyPage() {
 
       <div className="prose prose-lg mx-auto mt-14 max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-strong:text-navy prose-a:text-gold">
         <p>
-          Scarcity to Sovereignty (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;this
+          Scarcity 2 Sovereignty (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;this
           site&rdquo;) respects your privacy. This policy explains what information is
           collected when you visit, how it&rsquo;s used, and your rights regarding it.
         </p>
