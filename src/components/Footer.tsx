@@ -6,8 +6,12 @@ export default function Footer() {
       <div className="mx-auto max-w-6xl px-6 py-14 md:px-10">
         <div className="grid gap-10 md:grid-cols-3">
           <div>
-            <p className="font-serif text-lg font-semibold">
-              Scarcity to <span className="text-gold">Sovereignty</span>
+            <p className="font-serif text-lg font-semibold flex items-center gap-2">
+              Scarcity
+              <span className="inline-flex h-5 w-5 items-center justify-center rounded-full bg-cream text-[10px] font-bold text-navy">
+                2
+              </span>
+              <span className="text-gold">Sovereignty</span>
             </p>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-cream/70">
               Where scarcity thinking ends & wealth clarity starts.
