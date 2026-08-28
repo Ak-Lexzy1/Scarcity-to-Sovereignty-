@@ -20,7 +20,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://scarcity-to-sovereignty.vercel.app"),
+  metadataBase: new URL("https://scarcity2sovereignty.com"),
   title: {
     default: "Scarcity 2 Sovereignty | Money & Mindset",
     template: "%s | Scarcity 2 Sovereignty",
