@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllPostSlugs } from "@/lib/posts";
 
-const BASE_URL = "https://scarcity-to-sovereignty.vercel.app";
+const BASE_URL = "https://scarcity2sovereignty.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const postEntries = getAllPostSlugs().map((slug) => ({
