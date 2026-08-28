@@ -29,7 +29,7 @@ export default function PostCard({ post }: { post: PostMeta }) {
         </p>
         <div className="mt-4 flex items-center justify-between border-t border-gold/20 pt-3 text-[10px] uppercase tracking-[0.12em] text-gold/80">
           <span>{post.readTime}</span>
-          <span className="text-cream/40">Scarcity to Sovereignty</span>
+          <span className="text-cream/40">Scarcity 2 Sovereignty</span>
         </div>
       </div>
     </Link>
