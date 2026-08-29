@@ -32,3 +32,5 @@ Having fun on a budget is quite different from splurging. Splurging means spendi
 You might say, "I'm going to splurge on myself this weekend. I'm going to treat myself and spend more than usual." Then you drop $250 on a dinner when your regular spend is $50. That's a splurge, and it's completely fine once in a while, whether you're celebrating a milestone or just want to feel good.
 
 But having fun on a budget should be the habit. Splurging should be the exception.
+
+If sticking to a budget is the part you struggle with, [This Old-School Budgeting Trick Still Works](/blog/envelope-method) gives you a visual system that makes limits easier to respect.
