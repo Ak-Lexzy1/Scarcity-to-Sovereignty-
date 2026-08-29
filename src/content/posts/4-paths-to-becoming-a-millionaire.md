@@ -122,3 +122,5 @@ You should also know that most Dreamer Entrepreneurs fail at least once before t
 Saver Investor. Company Climber. Virtuoso. Dreamer Entrepreneur. On average, many people who reach millionaire status actually blend two of these paths rather than following just one.
 
 I'd genuinely love to hear which one fits you, or which one you're building toward. And if you've already crossed the millionaire mark, tell me your story. With your permission, I'll feature it right here for other readers to learn from.
+
+If you're figuring out which path fits you, [8 Investments Women Overlook](/blog/8-investments-women-overlook) is a good next read, since building wealth isn't only about income, it's also about where you choose to invest it.
