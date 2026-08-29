@@ -62,3 +62,5 @@ Most online income ideas fail not because the idea was bad, but because consiste
 I almost quit after mile one, twice. The only difference between those two failures and what came after was that I stopped mistaking a slow start for a wrong idea.
 
 *Individual results vary. Business outcomes described here reflect one person's experience and aren't a guarantee of similar results.*
+
+If you're setting income goals alongside this, [10 Personal Finance Goals to Crush This Year](/blog/10-money-goals) is a solid place to start mapping out the rest of your plan.
