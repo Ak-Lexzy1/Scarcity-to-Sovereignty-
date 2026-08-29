@@ -56,3 +56,5 @@ An emergency fund isn't really about the dollar amount. It's about what it preve
 Most advice tells you to budget harder or hustle more. Both can help, but neither addresses the real gap between where you are and where sovereignty actually begins. That gap is your relationship with the small, repeated choices that make up an ordinary week.
 
 None of these five habits require a raise, a windfall, or a complete overhaul of how you live. They just require repetition, long enough that they stop feeling like decisions and start feeling like who you are with money.
+
+Habit 3 on this list, separating your wants from your needs, works even better with a system behind it. [This Old-School Budgeting Trick Still Works](/blog/envelope-method) shows you exactly how to build that.
