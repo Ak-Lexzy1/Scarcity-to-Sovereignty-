@@ -39,7 +39,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col gap-2 border-t border-cream/10 pt-6 text-[11px] uppercase tracking-[0.1em] text-cream/50 md:flex-row md:items-center md:justify-between">
-          <p>&copy; {new Date().getFullYear()} Scarcity to Sovereignty. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Scarcity 2 Sovereignty. All rights reserved.</p>
           <p>Not financial advice — always do your own due diligence.</p>
         </div>
       </div>
