@@ -66,3 +66,5 @@ The best investments are not always the loudest ones. Sometimes they're a book, 
 Invest where life will eventually send the invoice. Pay now, on your terms, not later on its terms.
 
 Go and win. Go and conquer the world.
+
+Building your own portfolio is one investment worth prioritizing. If you haven't already, [Do You Have a Retirement Plan?](/blog/retirement-plan-check) is worth asking yourself next.
