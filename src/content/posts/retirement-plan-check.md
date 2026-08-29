@@ -26,3 +26,5 @@ Why be at someone else's mercy when you can start planning right now?
 This shouldn't take so much convincing. You don't need to think too much about it before making the decision and taking action.
 
 Get that retirement account and start putting money away for your future. You owe it to yourself.
+
+Starting your retirement account is one decision. Making it stick is another. [5 Habits That Quietly Build Wealth](/blog/5-habits-that-build-wealth) breaks down the small habits that keep it going.
