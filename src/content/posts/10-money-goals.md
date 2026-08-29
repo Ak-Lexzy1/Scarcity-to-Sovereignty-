@@ -15,7 +15,7 @@ Here are the ten things worth putting on your list this year, and why each one a
 
 There's real power in putting your financial goals on paper. "I want to be a millionaire" is a wish, not a goal. On the other hand, "I'm investing 20% of my monthly income" is a goal. It's clear, it has a timeline, and it's strategic.
 
-Say you earn $3,000 a month. Deciding to invest $500 or $1,000 of it by month's end gives you something concrete to aim at, not a vague hope.
+Say you earn $5,000 a month. Deciding to invest $500 or $1,000 of it by month's end gives you something concrete to aim at, not a vague hope.
 
 Goals fall into three buckets, and writing them down works differently for each one:
 
