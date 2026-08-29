@@ -13,7 +13,7 @@ Here are the ten things worth putting on your list this year, and why each one a
 
 ### 1. Write it down
 
-There's real power in putting your financial goals on paper. "I want to be a millionaire" is a wish, not a goal. On the other hand, "I'm investing 20% of my monthly income" is a goal. It's clear, it has a timeline, and it's strategic.
+There's real power in putting your financial goals on paper. "I want to be a millionaire" is a wish, not a goal. On the other hand, "I'm investing 20% of my monthly salary every month" is a goal. It's clear, it has a timeline, and it's strategic.
 
 Say you earn $3,000 a month. Deciding to invest $500 or $1,000 of it by month's end gives you something concrete to aim at, not a vague hope.
 
@@ -122,3 +122,5 @@ Most people don't actually have a saving or investing problem if their income is
 Think through these ten, and figure out which ones actually fit where you are right now. If this was useful, share it with someone who needs to see it too.
 
 *This isn't professional financial advice. Always do your own research before making financial decisions.*
+
+Once you've got your goals written down, [5 Habits That Quietly Build Wealth](/blog/5-habits-that-build-wealth) walks through the small, repeatable habits that actually make them stick.
