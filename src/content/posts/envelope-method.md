@@ -45,3 +45,5 @@ Once you've watched one category actually hold its line for a full month, adding
 Old methods often survive for a reason. This one isn't outdated. It's just been waiting for someone to translate it.
 
 One last thing. Stay disciplined with these methods, and you're sure to get results from them.
+
+Once your budget has real limits, the next challenge is enjoying life within them. [Having Fun on a Budget](/blog/fun-on-a-budget) shows you how.
