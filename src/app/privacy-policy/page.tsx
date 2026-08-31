@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
-  description: "Privacy policy for Scarcity to Sovereignty.",
+  description: "Privacy policy for Scarcity 2 Sovereignty.",
 };
 
 export default function PrivacyPolicyPage() {
@@ -32,7 +32,7 @@ export default function PrivacyPolicyPage() {
           <li>
             <strong>Usage data</strong> — general analytics data (e.g., pages visited, time on
             site, approximate location, device/browser type) collected automatically via
-            Google Analytics.
+            Vercel Analytics and Google Analytics.
           </li>
           <li>
             <strong>Cookies</strong> — small data files that may be used for analytics, Pinterest
@@ -54,7 +54,7 @@ export default function PrivacyPolicyPage() {
         </p>
         <ul>
           <li>
-            <strong>Google Analytics</strong> — for site traffic insights.
+            <strong>Vercel Analytics and Google Analytics</strong> — for site traffic insights.
           </li>
           <li>
             <strong>Kit (ConvertKit)</strong> — for newsletter waitlist management.
