@@ -4,7 +4,7 @@ excerpt: "Why hardworking people stay stuck in the survival loop, and the mindse
 segment: "mindset-freedom"
 icon: "awaken"
 date: "2026-08-27"
-readTime: "5 min read"
+readTime: "6 min read"
 ---
 
 This isn't nice to say, but you can hustle yourself into exhaustion and still die broke. Plenty of people have. Being broke isn't your circumstance. For most people stuck in it, it has become their identity.
@@ -50,14 +50,18 @@ You can't fix this by changing your income. You have to fix how you think first.
 ## The mindset shift required and needed to adopt
 
 **Respect the germination period.**
-Nothing grows overnight. Stick with it until results actually come. Don't uproot your seed looking for a better soil before it germinates on the soil you planted it.
+Nothing grows overnight. Stick with it until results actually come. Don't uproot your seed looking for a better soil before it germinates in the soil you planted it.
 
 **Problems don't stop progress, quitting does.** Worrying or walking away doesn't solve anything. It just restarts the loop from zero. In all honesty, problems are always part of progress because those are the cue and pointers to the next steps needed to take to make things better and closer to perfection.
 
-**Your current skill or hustle can make more than you think.** You just haven't seen how yet, because the loop keeps you too busy and too scared to notice the opportunity right in front of you. Years back, I had friends who could write and were earning good money from that skill. Funny enough, many of them had to work at getting better at it. Meanwhile, I was a natural-born writer who didn't have to learn the way they did, and could have earned even more than they were. Instead, I was often broke, too busy juggling odd jobs to notice. I knew I was good. It just never occurred to me that I could actually monetize it.
+**Your current skill or hustle can make more than you think.** You just haven't seen how yet, because the loop keeps you too busy and too scared to notice the opportunity right in front of you.
+
+Years back, I had friends who could write and were earning good money from that skill. Funny enough, many of them had to work at getting better at it first before monetizing it. Meanwhile, I was a natural-born writer who didn't have to learn the way they did, and could have earned even more than they were. Instead, I was often broke, too busy juggling jobs to notice. I knew I was good. It just never occurred to me that I could actually monetize it to make crazy money.
+
 It took breaking out of the loop, and finally having the confidence, to see the opportunity that had been sitting in my own talent the whole time. I just never tapped into it.
+
 ## Where breaking free actually starts
 
 Breaking free starts in your mind, not your bank account. Fight the urge to quit too early. Stay long enough for what you're building to actually grow.
 
-If this resonated, there's more to say about exactly how the loop keeps hardworking people stuck financially. "THE DEMON THAT KEEPS HARDWORKING PEOPLE BROKE" is where I showed how to finally break the loop.
+If this resonated, there's more to say about exactly how the loop keeps hardworking people stuck financially. [The Demon That Keeps Hardworking People Broke](/blog/demon-keeps-people-broke) is where I showed how to finally break the loop.
