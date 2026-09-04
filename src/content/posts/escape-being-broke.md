@@ -54,8 +54,8 @@ Nothing grows overnight. Stick with it until results actually come. Don't uproot
 
 **Problems don't stop progress, quitting does.** Worrying or walking away doesn't solve anything. It just restarts the loop from zero. In all honesty, problems are always part of progress because those are the cue and pointers to the next steps needed to take to make things better and closer to perfection.
 
-**Your current skill or hustle can make more than you think.** You just haven't seen how yet, because the loop keeps you too busy and too scared to notice the opportunity right in front of you. Years back, I had friends who could write and are earning loads of money from this skill. Funny enough, many of them had to learn how to write better, meanwhile, I'm a natural born writer
-
+**Your current skill or hustle can make more than you think.** You just haven't seen how yet, because the loop keeps you too busy and too scared to notice the opportunity right in front of you. Years back, I had friends who could write and were earning good money from that skill. Funny enough, many of them had to work at getting better at it. Meanwhile, I was a natural-born writer who didn't have to learn the way they did, and could have earned even more than they were. Instead, I was often broke, too busy juggling odd jobs to notice. I knew I was good. It just never occurred to me that I could actually monetize it.
+It took breaking out of the loop, and finally having the confidence, to see the opportunity that had been sitting in my own talent the whole time. I just never tapped into it.
 ## Where breaking free actually starts
 
 Breaking free starts in your mind, not your bank account. Fight the urge to quit too early. Stay long enough for what you're building to actually grow.
