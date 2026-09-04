@@ -54,7 +54,7 @@ Nothing grows overnight. Stick with it until results actually come. Don't uproot
 
 **Problems don't stop progress, quitting does.** Worrying or walking away doesn't solve anything. It just restarts the loop from zero. In all honesty, problems are always part of progress because those are the cue and pointers to the next steps needed to take to make things better and closer to perfection.
 
-**Your current skill or hustle can make more than you think.** You just haven't seen how yet, because the loop keeps you too busy and too scared to notice the opportunity right in front of you.
+**Your current skill or hustle can make more than you think.** You just haven't seen how yet, because the loop keeps you too busy and too scared to notice the opportunity right in front of you. Years back, I had friends who could write and are earning loads of money from this skill. Funny enough, many of them had to learn how to write better, meanwhile, I'm a natural born writer
 
 ## Where breaking free actually starts
 
