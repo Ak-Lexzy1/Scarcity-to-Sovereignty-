@@ -72,4 +72,7 @@ Your breakthrough doesn't start with a bigger paycheck. It starts the moment you
 
 If you're wondering why this loop is so hard to break in the first place, [Why It's So Hard to Escape Being Broke](/blog/escape-being-broke) breaks down exactly how it takes hold, and why quitting too early is what keeps it going.
 
+Building the asset is only half the equation though. [Income Is Not Wealth](/blog/income-is-not-wealth) shows you what to actually do with the cashflow once it starts coming in, so you don't end up earning more and still ending up broke.
+
+*Income examples above are illustrative, not guaranteed outcomes. Actual earnings from any side hustle or rental platform vary widely based on location, demand, pricing, and effort, and depend on factors outside anyone's control.*
 *Income examples above are illustrative, not guaranteed outcomes. Actual earnings from any side hustle or rental platform vary widely based on location, demand, pricing, and effort, and depend on factors outside anyone's control.*
