@@ -9,7 +9,7 @@ readTime: "7 min read"
 
 There was a time in my life I was so broke, I got back to my apartment one winter night and cried myself to sleep. It's a scary and shitty place to be.
 
-To make matters worse, I'm an introvert with a sense of self-sufficient energy, so it felt like a sin to burden people with my financial struggles. I knew it would be difficult to change that part of my personality, so I just had to find a way to become financially free on my own. I was hardworking, yet broke.
+To make matters worse, I'm an introvert with a sense of self-sufficient energy, so it felt like a sin to burden people with my financial struggles. It's good to ask for help when necessary, but I knew it would be difficult to change that part of my personality, so I just had to find a way to become financially free on my own without being a financial pain or burden to people. I was hardworking, yet broke.
 
 This was me some years ago. It could be you years ago as well, or even presently.
 
@@ -25,29 +25,27 @@ It's the invisible pattern that keeps people busy, broke, and unable to get ahea
 
 You're running on a treadmill. Moving constantly, but going nowhere.
 
-## The two major causes
+The two major causes are:
 
 **Irregular income.** Gaps between paychecks keep you broke and anxious. Nobody makes sharp financial decisions while they're stressed about whether the next check is actually coming.
 
 **Not enough cashflow.** Even when the money does show up, it's rarely enough to actually grow anything. Frustration sets in, and the loop just continues.
 
-## The scary truth
+Here's the scary truth you might not want to hear. The longer you stay in Survival Mode, the more your drive and your hope quietly die off. That's why people who started life with big dreams so often end up tired, stuck, and running on fumes. You might already feel it happening.
 
-The longer you stay in Survival Mode, the more your drive and your hope quietly die off. That's why people who started life with big dreams so often end up tired, stuck, and running on fumes. You might already feel it happening.
-
-## The way out: clarity and hope
-
-Here's the good news. You can escape this. The key is building what I call Cashflow-Generating Assets, or CGAs. Assets that bring steady, repeat income instead of a one-time payout. That's how you break the loop for good.
+The way out is clarity and hope. Trust me, you can escape this. The key is building what I call Cashflow-Generating Assets, or CGAs. Assets that bring steady, repeat income instead of a one-time payout. That's how you break the loop for good.
 
 ## What Cashflow-Generating Assets (CGAs) actually look like
 
 A side hustle you can scale. An online business that earns daily or weekly. A monetized skill or asset that pays consistently, without you trading every hour for it.
 
-## Here's a real example most people overlook completely:
+Here's a real example most people overlook completely:
 
 Renting out space you already own. If you have a driveway, an extra parking spot, a garage, or even unused storage space, there are some apps and websites that let you list it for people who need parking or storage nearby, often near universities, stadiums, airports, or dense downtown areas where parking is genuinely scarce. This is an asset, not freelancing.
 
-Here's how it actually works. You list your space with photos, set your price, and choose your availability. The platform handles matching you with renters and processing payment. Once someone books, you don't have to do much beyond letting them in or giving access, and many spaces get booked on a recurring monthly basis rather than one-off. It's about as close to a true cashflow asset as an everyday person can build with almost nothing they don't already own.
+Here's how it actually works.
+
+You list your space with photos, set your price, and choose your availability. The platform handles matching you with renters and processing payment. Once someone books, you don't have to do much beyond letting them in or giving access, and many spaces get booked on a recurring monthly basis rather than one-off. It's about as close to a true cashflow asset as an everyday person can build with almost nothing they don't already own.
 
 By the way, renting out space you own isn't unheard of, and some very popular platforms have made "rent out what you have" a familiar idea to most Americans. But there's a real distinction worth knowing. Many popular platforms are specifically for renting out living spaces, rooms, or entire homes for people to sleep in.
 
@@ -59,7 +57,7 @@ Another genuinely underused option worth knowing about.
 
 Specialty equipment rental, think power tools, pressure washers, camping gear, or party equipment sitting unused in your garage, can be listed on some apps for people who need it for a weekend instead of buying it outright.
 
-## Think about the math this way
+Think about the math this way.
 
 $200/day in consistent cashflow = $6,000/month.
 $500/day in consistent cashflow = $15,000/month.
