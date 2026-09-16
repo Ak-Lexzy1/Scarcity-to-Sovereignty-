@@ -4,7 +4,7 @@ excerpt: "Most budgeting advice assumes two incomes and a safety net. Here's a r
 segment: "money-foundations"
 icon: "shield"
 date: "2026-08-27"
-readTime: "8 min read"
+readTime: "9 min read"
 ---
 
 Before writing this post, I did a little research and saw that most budgeting advice assumes two incomes, a shared load, and a safety net if something goes wrong.
@@ -24,6 +24,14 @@ The first tier gets funded no matter what. The second tier is where you actually
 For most working single parents, childcare isn't a line item, it's closer to a second rent payment. You need to build your budget around childcare costs first, before anything else gets allocated, since this single expense often determines what's even possible with the rest of your income.
 
 If childcare costs are consuming an unsustainable share of your income, it's worth researching state and local assistance programs specifically for single parents before assuming there's no help available. The federal Child Care and Development Fund (CCDF) alone distributed roughly $8.7 billion to states last year, yet only about 1 in 7 eligible families actually receive it. The rest either never applied, got stuck on a waitlist, or assumed they wouldn't qualify. It's worth checking, even if you assume you won't.
+
+If you're based in the United States, here are other real programs worth naming. This part is US-specific, so if you're reading from the UK, Canada, or Australia, your country will have its own equivalent programs worth searching for separately.
+
+TANF (Temporary Assistance for Needy Families): Cash assistance ranging roughly $200 to $700 a month depending on the state, and in many states, receiving TANF automatically bundles in CCDF childcare help as part of the package.
+
+Child and Dependent Care Tax Credit: This is available regardless of income level (not just low-income households), and covers 20-35% of up to $3,000 in childcare costs for one child, or $6,000 for two or more, up to $1,050 per child at the lower rate. This one's worth mentioning specifically because it's not income-restricted the way CCDF is, so it's relevant even for moms who wouldn't qualify for the subsidy programs.
+
+Dependent Care FSA: If a mom's employer offers one, she can set aside up to $5,000 a year pre-tax specifically for childcare, worth roughly $1,250 a year in tax savings at a 25% federal rate.
 
 A quick search for something like "California child care assistance program application" is usually the fastest way to find your state's actual application. Just insert your state, plus "child care assistance program application," and do your own research from there. Never assume you won't get help without trying it out first.
 
@@ -59,4 +67,4 @@ If you're looking for a simple way to make your budget categories actually visib
 
 Next: [6 Side Hustle Ideas for Beginners Who've Never Made Extra Income Before](/blog/beginners-side-hustle)
 
-*The CCDF figures cited above are drawn from publicly reported federal data and are current as of this writing, but program funding, eligibility, and availability change over time and vary by state. Always verify current details directly with your state's child care assistance agency.*
+*The CCDF, TANF, tax credit, and FSA figures cited above are drawn from publicly reported federal data and are current as of this writing, but program funding, eligibility, and availability change over time and vary by state. Always verify current details directly with your state's child care assistance agency or a tax professional.*
