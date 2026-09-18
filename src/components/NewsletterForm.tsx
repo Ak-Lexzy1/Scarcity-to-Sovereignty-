@@ -35,7 +35,7 @@ export default function NewsletterForm() {
       <div className="rounded-md border border-gold/40 bg-navy px-6 py-8 text-center">
         <p className="font-serif text-lg text-cream">You&rsquo;re on the list.</p>
         <p className="mt-2 text-sm text-cream/70">
-          Check your email to confirm your subscription — we&rsquo;ll notify you the moment the newsletter goes live.
+          Check your email to confirm your subscription.
         </p>
       </div>
     );
@@ -45,7 +45,7 @@ export default function NewsletterForm() {
     <form onSubmit={handleSubmit} className="rounded-md border border-gold/30 bg-navy px-6 py-8 sm:px-10 sm:py-10">
       <p className="text-[11px] uppercase tracking-[0.2em] text-gold">Weekly Money &amp; Mindset Shifts</p>
       <h3 className="mt-2 font-serif text-2xl font-semibold text-cream sm:text-3xl">
-        Join the Waitlist
+        Join the Newsletter 
       </h3>
       <p className="mt-3 max-w-md text-sm leading-relaxed text-cream/70">
         Weekly money and mindset shifts, straight to your inbox.
