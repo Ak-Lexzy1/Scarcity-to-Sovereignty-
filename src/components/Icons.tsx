@@ -32,6 +32,7 @@ export const iconMap: Record<string, LucideIcon> = {
   money: DollarSign,
   receipt: Receipt,
   "hand-coins": HandCoins,
+  assistance: HandCoins,
   bank: Bank,
   vault: Vault,
 
@@ -176,3 +177,4 @@ export const IconCompass = Compass;
 export const IconShield = Shield;
 export const IconKey = Key;
 export const IconLock = Lock;
+export const IconHandCoins = HandCoins;
