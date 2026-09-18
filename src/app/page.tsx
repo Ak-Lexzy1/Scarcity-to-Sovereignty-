@@ -9,6 +9,7 @@ const segmentIcons = {
   "money-foundations": IconCompass,
   "wealth-income-building": IconGrowth,
   "mindset-freedom": IconMindset,
+  "financial-assistance-resources": IconHandCoins,
 };
 
 export default function HomePage() {
@@ -43,7 +44,7 @@ export default function HomePage() {
         <div className="mb-12 text-center">
           <p className="text-[11px] uppercase tracking-[0.25em] text-gold">Explore by Segment</p>
           <h2 className="mt-2 font-serif text-3xl font-semibold text-navy">
-            Three Paths, One Destination
+            Four Paths, One Destination
           </h2>
         </div>
         <div className="grid gap-6 md:grid-cols-3">
