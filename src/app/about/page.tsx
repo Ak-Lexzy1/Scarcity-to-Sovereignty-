@@ -142,6 +142,10 @@ export default function AboutPage() {
             who&rsquo;s lived both sides of it.
           </li>
           <li>
+            Helpful verified resources on getting financial assistance around
+            Money-specific crisis, Healthcare & wellbeing, Education etc.
+          </li>
+          <li>
             No get-rich-quick promises and no inflated income claims. Just
             real, consistent steps toward wealth, financial literacy, and
             freedom.
