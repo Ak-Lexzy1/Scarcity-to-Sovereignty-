@@ -48,7 +48,7 @@ export default function NewsletterForm() {
         Join the Waitlist
       </h3>
       <p className="mt-3 max-w-md text-sm leading-relaxed text-cream/70">
-        The newsletter isn&rsquo;t live yet — join now and be the first to know when it launches.
+        Weekly money and mindset shifts, straight to your inbox.
       </p>
 
       <div className="mt-6 flex flex-col gap-3 sm:flex-row">
@@ -64,7 +64,7 @@ export default function NewsletterForm() {
           disabled={status === "loading"}
           className="whitespace-nowrap rounded-sm bg-gold px-6 py-3 text-[11px] font-semibold uppercase tracking-[0.15em] text-navy-deep transition hover:bg-gold-soft disabled:opacity-60"
         >
-          {status === "loading" ? "Joining…" : "Join Waitlist"}
+          {status === "loading" ? "Joining…" : "Subscribe"}
         </button>
       </div>
 
