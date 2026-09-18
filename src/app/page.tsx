@@ -3,8 +3,7 @@ import { getAllPostsMeta } from "@/lib/posts";
 import { segments } from "@/lib/segments";
 import PostCard from "@/components/PostCard";
 import NewsletterForm from "@/components/NewsletterForm";
-import { IconCompass, IconGrowth, IconMindset } from "@/components/Icons";
-
+import { IconCompass, IconGrowth, IconMindset, IconHandCoins } from "@/components/Icons";
 const segmentIcons = {
   "money-foundations": IconCompass,
   "wealth-income-building": IconGrowth,
