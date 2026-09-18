@@ -109,8 +109,8 @@ export default function AboutPage() {
 
         <p>
           Then I attended a wealth and mindset summit in Nashville,
-          Tennessee, almost on a whim, and something shifted. Not overnight.
-          It was slow and often frustrating. But it paid off in the end, and
+          Tennessee, almost on a whim, and I felt it within me like "Haa, this is it". It dawned on me afterwards that change does not happen overnight.
+          It was slow and often frustrating. In fact, I almost gave up and accepted average was my destiny. But my perseverance paid off in the end, and
           it changed the direction of my entire life.
         </p>
 
