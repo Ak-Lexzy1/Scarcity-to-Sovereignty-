@@ -17,6 +17,30 @@ export default function AboutPage() {
 
       <div className="prose prose-lg mx-auto mt-14 max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-strong:text-navy">
         <p>
+          I like to call myself &ldquo;The Sovereign Being.&rdquo; I know
+          that phrase gets attached to God, or to rulers, in most
+          people&rsquo;s minds. Well, I&rsquo;m not claiming to be above
+          anyone. I&rsquo;m claiming that I&rsquo;m finally under no one. I
+          own my time and my choices, and that&rsquo;s what sovereignty
+          actually means to me: becoming sovereign from the inside out, in
+          mind, in money, and in meaning.
+        </p>
+
+        <p>
+          I adopted this identity long before I ever thought about starting
+          a blog, and it&rsquo;s where the blog&rsquo;s name actually came
+          from.
+        </p>
+
+        <p>
+          If you&rsquo;ve ever come from a place where there never seemed to
+          be enough, of anything, money, time, stability, you&rsquo;re in
+          the right place. Your reign starts here. But before I get to that,
+          here&rsquo;s what my world looked like before I ever got close to
+          sovereignty.
+        </p>
+
+        <p>
           Growing up in a small town in Kentucky with my parents and four
           siblings, three older, one younger, my relationship with money was
           really a relationship with fear. My mom told me my dad gambled away
@@ -136,11 +160,7 @@ export default function AboutPage() {
         <p>
           If any part of this sounds like where you are right now,
           you&rsquo;re welcome here.
-        </p>
-
-        <p>
-          The newsletter isn&rsquo;t live yet, but you can join the waitlist
-          below and I&rsquo;ll let you know the moment it launches.
+          Also, you can join my mailing list by subscribing to the Newsletter where I share exclusive content and insights reserved for my inner circle. 
         </p>
       </div>
 
