@@ -44,8 +44,8 @@ export default function AboutPage() {
           Growing up in a small town in Kentucky with my parents and four
           siblings, three older, one younger, my relationship with money was
           really a relationship with fear. My mom told me my dad gambled away
-          what we had shortly before I was born. We moved to the town where I
-          and my younger sibling grew up, and we were struggling financially
+          what we had shortly before I was born. They (my parents & 3 older siblings) moved to the town where I
+          and my younger sibling were later born, and we were all struggling financially
           from the start.
         </p>
 
