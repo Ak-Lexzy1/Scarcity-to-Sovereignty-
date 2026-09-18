@@ -29,6 +29,13 @@ export const segments: Segment[] = [
     description:
       "The inner work behind the outer results — shifting from scarcity thinking to a mindset built for financial freedom.",
   },
+  {
+    slug: "financial-assistance-resources",
+    name: "Financial Assistance Resources",
+    subtitle: "Verified Government & Private Support Programs",
+    description:
+      "Real, verified resources — government and private programs — for people who need genuine financial assistance right now.",
+  },
 ];
 
 export function getSegment(slug: string): Segment | undefined {
