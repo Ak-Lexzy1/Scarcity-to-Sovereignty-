@@ -1,5 +1,4 @@
-export type SegmentSlug = "money-foundations" | "wealth-income-building" | "mindset-freedom";
-
+export type SegmentSlug = "money-foundations" | "wealth-income-building" | "mindset-freedom" | "financial-assistance-resources";
 export interface Segment {
   slug: SegmentSlug;
   name: string;
