@@ -8,7 +8,7 @@ const segmentIcons = {
   "money-foundations": IconCompass,
   "wealth-income-building": IconGrowth,
   "mindset-freedom": IconMindset,
-  "financial-assistance-resources": IconHandCoins,
+  "financial-support-resources": IconHandCoins,
 };
 
 export default function HomePage() {
