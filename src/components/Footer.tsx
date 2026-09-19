@@ -34,7 +34,7 @@ export default function Footer() {
               <li><Link href="/blog?segment=money-foundations" className="hover:text-gold">Money Foundations</Link></li>
               <li><Link href="/blog?segment=wealth-income-building" className="hover:text-gold">Wealth &amp; Income Building</Link></li>
               <li><Link href="/blog?segment=mindset-freedom" className="hover:text-gold">Mindset &amp; Freedom</Link></li>
-              <li><Link href="/blog?segment=financial-assistance-resources" className="hover:text-gold">Financial Assistance Resources</Link></li>
+              <li><Link href="/blog?segment=financial-support-resources" className="hover:text-gold">Financial Assistance Resources</Link></li>
             </ul>
           </div>
         </div>
