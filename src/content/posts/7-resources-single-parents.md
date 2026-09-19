@@ -7,7 +7,7 @@ date: "2026-08-27"
 readTime: "9 min read"
 ---
 
-If you've read the About Me section of this blog, you already know a piece of my story, a brief summary of my childhood and what growing up looked like.
+If you've read the **About Me** section of this blog (top right corner), you already know a piece of my story, a brief summary of my childhood and what growing up looked like.
 
 There's a lot I left out of that version, and one of them was watching my parents search for every kind of support available to low-income, financially struggling families. They were never divorced or separated, so entire categories of help simply weren't available to them. My dad passed away in 2016. My mom is still here, and these days, in a much better place, because I made sure of it.
 
