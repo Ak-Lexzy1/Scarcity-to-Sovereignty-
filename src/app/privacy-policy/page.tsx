@@ -16,7 +16,7 @@ export default function PrivacyPolicyPage() {
         Last updated: August 2026
       </p>
 
-      <div className="prose prose-lg mx-auto mt-14 max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-strong:text-navy prose-a:text-gold">
+      <div className="prose prose-lg mx-auto mt-14 max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-strong:text-navy prose-a:text-red-600">
         <p>
           Scarcity 2 Sovereignty (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;this
           site&rdquo;) respects your privacy. This policy explains what information is
