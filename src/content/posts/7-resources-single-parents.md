@@ -1,7 +1,7 @@
 ---
 title: "7 Verified Resources for Single Parents Who Need Real Financial Help"
 excerpt: "Seven genuine, verified resources single parents can turn to, checked for legitimacy and current status, with full websites included."
-segment: "financial-assistance-resources"
+segment: "financial-support-resources"
 icon: "lifeline"
 date: "2026-08-27"
 readTime: "9 min read"
