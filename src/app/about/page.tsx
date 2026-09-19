@@ -142,7 +142,7 @@ export default function AboutPage() {
             who&rsquo;s lived both sides of it.
           </li>
           <li>
-            Helpful verified resources on getting financial assistance around
+            Helpful verified resources on getting financial support/assistance around
             Money-specific crisis, Healthcare & wellbeing, Education etc.
           </li>
           <li>
