@@ -2,7 +2,7 @@
 title: "7 Verified Resources for Single Parents Who Need Real Financial Help"
 excerpt: "Seven genuine, verified resources single parents can turn to, checked for legitimacy and current status, with full websites included."
 segment: "financial-assistance-resources"
-icon: "assistance"
+icon: "lifeline"
 date: "2026-08-27"
 readTime: "9 min read"
 ---
@@ -27,25 +27,25 @@ These four, which you'll be reading about below, are structured differently from
 
 SNAP covers groceries through a monthly EBT card. For fiscal year 2026, the average benefit runs about $188 per person per month, roughly $6.17 a day, though your actual amount depends on household size and income. Maximum monthly benefits range from $298 for a single person up to $994 for a household of four. Eligibility is based on income relative to the federal poverty line, and most working single parents with modest income do qualify for something, even if it's not the maximum.
 
-Apply at fns.usda.gov/snap
+Apply at [fns.usda.gov/snap](https://www.fns.usda.gov/snap)
 
 ### WIC (Women, Infants, and Children)
 
 WIC provides monthly food packages, not cash, specifically for pregnant women, new mothers, and children up to age 5. It covers items like milk, eggs, whole grains, fruits and vegetables, prescribed based on your family's nutritional needs. Income limit is generally 185% of the federal poverty level.
 
-Apply at fns.usda.gov/wic
+Apply at [fns.usda.gov/wic](https://www.fns.usda.gov/wic)
 
 ### Medicaid and CHIP (health coverage for your kids)
 
 This one covers doctor visits, hospital care, and prescriptions at little to no cost. The federal government's own benchmark states that an estimated 91% of eligible children without other coverage are actually enrolled, making this one of the highest-reach programs in the entire safety net. Income limits vary by state, but children typically qualify at higher thresholds than adults, often 200-300% of the federal poverty level.
 
-Apply at insurekidsnow.gov
+Apply at [insurekidsnow.gov](https://www.insurekidsnow.gov)
 
 ### EITC (Earned Income Tax Credit)
 
 This is a refundable tax credit, meaning you get the full amount back even if you owe no federal taxes. For the 2025 tax year, the maximum credit runs up to $7,152 with two qualifying children, or $8,046 with three or more. Tax credit amounts adjust yearly, so confirm the current figure directly at irs.gov before filing.
 
-Apply at irs.gov/credits-deductions/individuals/earned-income-tax-credit
+Apply at [irs.gov/credits-deductions/individuals/earned-income-tax-credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit)
 
 ## Private and philanthropic resources worth knowing
 
@@ -57,19 +57,19 @@ Founded by Valerie Sobel in 2000, after she lost her son to a brain tumor at 19,
 
 One important detail: a parent can't apply directly. A hospital social worker submits the request on the family's behalf, and funds are typically released within 24 hours once verified.
 
-Learn more at compassioncantwait.org
+Learn more at [compassioncantwait.org](https://www.compassioncantwait.org)
 
 ### The Single Parent Project
 
 Founded by two women who lived through divorce and understood firsthand what running a household on one income actually feels like. This one goes beyond a single check. Alongside direct financial relief for things like rent, groceries, or an unexpected car repair, recipients are paired with a peer mentor, a coach, and a budget counselor. Eligibility requires being single, widowed, divorced, or separated, with a divorce that's nearly finalized.
 
-Apply at singleparentproject.org
+Apply at [singleparentproject.org](https://www.singleparentproject.org)
 
 ### The Kickass Single Mom Grant (Wealthy Single Mommy)
 
 Run personally by Emma Johnson, a journalist and bestselling author of The Kickass Single Mom. This is a genuinely no-strings $500 cash grant, no restrictions on how you spend it, no repayment, no reporting required afterward. The frequency has shifted over the years, weekly during the pandemic, then monthly, and the most recent update on her site describes it as annual now, so check her page directly for the current schedule before you apply.
 
-Apply at wealthysinglemommy.com/single-mom-grant
+Apply at [wealthysinglemommy.com/single-mom-grant](https://wealthysinglemommy.com/single-mom-grant)
 
 ## What I intentionally left off this list
 
