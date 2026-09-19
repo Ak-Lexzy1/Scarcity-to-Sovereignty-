@@ -1,4 +1,4 @@
-export type SegmentSlug = "money-foundations" | "wealth-income-building" | "mindset-freedom" | "financial-assistance-resources";
+export type SegmentSlug = "money-foundations" | "wealth-income-building" | "mindset-freedom" | "financial-support-resources";
 export interface Segment {
   slug: SegmentSlug;
   name: string;
@@ -29,8 +29,8 @@ export const segments: Segment[] = [
       "The inner work behind the outer results — shifting from scarcity thinking to a mindset built for financial freedom.",
   },
   {
-    slug: "financial-assistance-resources",
-    name: "Financial Assistance Resources",
+    slug: "financial-support-resources",
+    name: "Financial Support Resources",
     subtitle: "Verified Government & Private Support Programs",
     description:
       "Real, verified resources — government and private programs — for people who need genuine financial assistance right now.",
