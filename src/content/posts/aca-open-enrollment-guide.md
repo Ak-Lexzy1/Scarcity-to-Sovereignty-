@@ -1,7 +1,7 @@
 ---
 title: "ACA Open Enrollment: Dates, Real Costs, and Free Help You Didn't Know Existed (Current Updated Guide)"
 excerpt: "How ACA Open Enrollment actually works, honest subsidy changes for the current cycle, and free navigator help most people never use."
-segment: "financial-assistance-resources"
+segment: "financial-support-resources"
 icon: "protected"
 date: "2026-09-19"
 readTime: "9 min read"
