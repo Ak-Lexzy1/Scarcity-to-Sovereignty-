@@ -1,7 +1,7 @@
 ---
 title: "The One Question to Ask Before You Ever Make a Budget"
 excerpt: "Before you build a budget, answer one question and see why the answer changes everything."
-segment: "mindset-freedom"
+segment: "money-foundations"
 icon: "question"
 date: "2026-09-19"
 readTime: "6 min read"
