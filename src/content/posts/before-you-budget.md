@@ -62,6 +62,6 @@ If you haven't built that plan yet, [10 Personal Finance Goals to Crush This Yea
 
 Also, click here to [Download the free Monthly Budget Planner Bundle (PDF)](/downloads/monthly-budget-planner-bundle.pdf) that contains all the budget bundle that will help you stay accountable and on track every single month.
 
-Next: [The Mindset Shift Before the Money Shift](/blog/mindset-before-money)
-
 So, what's your money why? I'd genuinely love to hear it, drop me an email or reply if you're on the newsletter.
+
+Next: [The Mindset Shift Before the Money Shift](/blog/mindset-before-money)
