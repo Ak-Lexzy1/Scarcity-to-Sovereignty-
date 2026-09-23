@@ -50,7 +50,7 @@ export default function HomePage() {
             Money &amp; Mindset
           </span>
           <h1 className="max-w-2xl font-serif text-4xl font-semibold leading-[1.15] text-cream md:text-6xl">
-            How to Budget, Save Money &amp; Build Wealth From Scratch - Even on a Low Income
+            How to Budget, Save Money &amp; Build Wealth From Scratch, Even on a Low Income
           </h1>
           <p className="max-w-xl text-base leading-relaxed text-cream/70 md:text-lg">
             Practical money guides and budgeting for beginners, freelancers, students, and families who want to stop being broke, find financial help, start earning online, and build real financial freedom from the ground up.
