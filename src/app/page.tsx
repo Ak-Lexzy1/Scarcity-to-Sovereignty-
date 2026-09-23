@@ -1,14 +1,41 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllPostsMeta } from "@/lib/posts";
 import { segments } from "@/lib/segments";
 import PostCard from "@/components/PostCard";
 import NewsletterForm from "@/components/NewsletterForm";
 import { IconCompass, IconGrowth, IconMindset, IconHandCoins } from "@/components/Icons";
+
+export const metadata: Metadata = {
+  title: "How to Budget, Make Money Online & Build Wealth | Scarcity 2 Sovereignty",
+  description:
+    "Practical budgeting for beginners, legit side hustles and work-from-home jobs, wealth-building habits, including verified financial assistance for single parents. Real help to go from broke to financially free.",
+};
+
 const segmentIcons = {
   "money-foundations": IconCompass,
   "wealth-income-building": IconGrowth,
   "mindset-freedom": IconMindset,
-  "financial-support-resources": IconHandCoins,
+  "financial-assistance-resources": IconHandCoins,
+};
+
+const segmentCardContent: Record<string, { title: string; desc: string }> = {
+  "money-foundations": {
+    title: "Budgeting & Money Management",
+    desc: "HOW TO BUDGET FOR BEGINNERS, CASH ENVELOPE SYSTEM, MONEY SAVING TIPS FOR LOW INCOME & PERSONAL FINANCE BASICS",
+  },
+  "wealth-income-building": {
+    title: "Make Money Online",
+    desc: "HOW TO MAKE MONEY ONLINE, SIDE HUSTLES, WORK FROM HOME JOBS, INVESTING WITH LITTLE MONEY & PASSIVE INCOME IDEAS",
+  },
+  "mindset-freedom": {
+    title: "Money Mindset",
+    desc: "MONEY MINDSET SHIFTS, HOW TO STOP LIVING PAYCHECK TO PAYCHECK, SCARCITY MINDSET & HABITS OF RICH PEOPLE",
+  },
+  "financial-assistance-resources": {
+    title: "Financial Help & Resources",
+    desc: "FINANCIAL ASSISTANCE PROGRAMS, FAFSA FOR STUDENTS & SINGLE PARENTS, GRANTS FOR BEGINNERS, ACA ENROLLMENT & GOVERNMENT HELP",
+  },
 };
 
 export default function HomePage() {
@@ -23,11 +50,10 @@ export default function HomePage() {
             Money &amp; Mindset
           </span>
           <h1 className="max-w-2xl font-serif text-4xl font-semibold leading-[1.15] text-cream md:text-6xl">
-            Where Scarcity Thinking Ends &amp; Wealth Clarity Starts
+            How to Budget, Save Money &amp; Build Wealth From Scratch - Even on a Low Income
           </h1>
           <p className="max-w-xl text-base leading-relaxed text-cream/70 md:text-lg">
-            Practical money habits and honest mindset shifts for people who are done being
-            broke and done thinking small about wealth.
+            Practical money guides and budgeting for beginners, freelancers, students, and families who want to stop being broke, find financial help, start earning online, and build real financial freedom from the ground up.
           </p>
           <Link
             href="/blog"
@@ -49,6 +75,7 @@ export default function HomePage() {
         <div className="grid gap-6 md:grid-cols-3">
           {segments.map((segment) => {
             const Icon = segmentIcons[segment.slug];
+            const content = segmentCardContent[segment.slug];
             return (
               <Link
                 key={segment.slug}
@@ -56,11 +83,11 @@ export default function HomePage() {
                 className="group rounded-lg border border-navy/10 bg-white p-8 text-center transition hover:border-gold hover:shadow-md"
               >
                 <Icon className="mx-auto h-10 w-10 stroke-navy transition group-hover:stroke-gold" />
-                <h3 className="mt-5 font-serif text-xl font-semibold text-navy">
-                  {segment.name}
-                </h3>
+                <h2 className="mt-5 font-serif text-xl font-semibold text-navy">
+                  {content.title}
+                </h2>
                 <p className="mt-3 text-xs uppercase tracking-[0.08em] text-navy/50">
-                  {segment.subtitle}
+                  {content.desc}
                 </p>
               </Link>
             );
@@ -97,4 +124,4 @@ export default function HomePage() {
       </section>
     </>
   );
-}
+      }
