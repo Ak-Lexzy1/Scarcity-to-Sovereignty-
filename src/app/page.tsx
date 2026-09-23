@@ -16,7 +16,7 @@ const segmentIcons = {
   "money-foundations": IconCompass,
   "wealth-income-building": IconGrowth,
   "mindset-freedom": IconMindset,
-  "financial-assistance-resources": IconHandCoins,
+  "financial-support-resources": IconHandCoins,
 };
 
 const segmentCardContent: Record<string, { title: string; desc: string }> = {
@@ -32,7 +32,7 @@ const segmentCardContent: Record<string, { title: string; desc: string }> = {
     title: "Money Mindset",
     desc: "MONEY MINDSET SHIFTS, HOW TO STOP LIVING PAYCHECK TO PAYCHECK, SCARCITY MINDSET & HABITS OF RICH PEOPLE",
   },
-  "financial-assistance-resources": {
+  "financial-support-resources": {
     title: "Financial Help & Resources",
     desc: "FINANCIAL ASSISTANCE PROGRAMS, FAFSA FOR STUDENTS & SINGLE PARENTS, GRANTS FOR BEGINNERS, ACA ENROLLMENT & GOVERNMENT HELP",
   },
