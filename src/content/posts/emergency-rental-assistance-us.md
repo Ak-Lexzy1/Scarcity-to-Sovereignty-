@@ -48,7 +48,7 @@ These aren't emergency one-time grants, they're permanent federal housing suppor
 
 Learn more at [hud.gov](https://www.hud.gov)
 
-**Community Development Block Grants (CDBG):**
+**4. Community Development Block Grants (CDBG):**
 Federal money that still flows to local cities and counties, administered at the local level rather than through a national application. The most effective approach here is searching "[your city or county] emergency rental assistance" directly, since these programs rarely show up in general national searches.
 
 ## The genuinely underused resource: Right to Counsel
