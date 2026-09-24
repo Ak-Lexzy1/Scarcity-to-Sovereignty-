@@ -1,5 +1,5 @@
 ---
-title: "Why It's So Hard to Escape Being Broke"
+title: "Why Am I Always Broke? (The Survival Loop Keeping You Paycheck to Paycheck)"
 excerpt: "Why hardworking people stay stuck in the survival loop, and the mindset shift required to finally break out of it."
 segment: "mindset-freedom"
 icon: "awaken"
