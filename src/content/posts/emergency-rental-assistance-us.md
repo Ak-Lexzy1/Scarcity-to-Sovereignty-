@@ -77,6 +77,6 @@ An eviction notice is a legal document with a real deadline attached, and every 
 
 If you're building the rest of your financial safety net while dealing with this, [Financial Help for Single Parents: 7 Verified Resources That Pay](/blog/7-resources-single-parents) covers additional assistance programs that pair well with housing support specifically.
 
-Next: [The Single Mom Paycheck Budget Plan for One Income](/blog/single-mom-budget-plan)
-
 *Program details, funding levels, and organizational status reflect the most current, verified information available as of the last review date noted at the top. Rental assistance availability changes frequently at the local level. Always confirm current status directly with the organizations linked above before applying.*
+
+Next: [The Single Mom Paycheck Budget Plan for One Income](/blog/single-mom-budget-plan)
