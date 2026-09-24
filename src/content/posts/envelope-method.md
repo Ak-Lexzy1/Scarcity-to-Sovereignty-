@@ -1,5 +1,5 @@
 ---
-title: "This Old-School Budgeting Trick Still Works (Just Not With Cash)"
+title: "Cash Envelope System: Old-School Budgeting Without Cash, in Our Modern World"
 excerpt: "An old-school budgeting trick, rebuilt for a world where most of us barely touch physical cash anymore."
 segment: "money-foundations"
 icon: "wallet"
