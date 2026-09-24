@@ -25,7 +25,7 @@ The good news is that help didn't disappear when that program ended. It just mov
 
 ## Start here: call 211
 
-Before anything else, call **211**, or visit **211.org**. This is a free hotline operated by United Way, covering all 50 states, Washington DC, and Puerto Rico. It connects you directly to whatever rental assistance is currently funded in your specific county, since availability shifts constantly at the local level in a way no single website can keep up with in real time. This is genuinely the fastest, most reliable first step, and it costs nothing.
+Before anything else, call **211**, or visit [211.org](https://www.211.org). This is a free hotline operated by United Way, covering all 50 states, Washington DC, and Puerto Rico. It connects you directly to whatever rental assistance is currently funded in your specific county, since availability shifts constantly at the local level in a way no single website can keep up with in real time. This is genuinely the fastest, most reliable first step, and it costs nothing.
 
 ## Organizations still actively helping right now
 
