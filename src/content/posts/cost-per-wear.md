@@ -1,5 +1,6 @@
 ---
-title: "Cost Per Wear: The Simple Math That Changes How You Shop"
+title: "Cost Per Wear Formula to Stop Overspending on Clothes (Learn the simple math)
+"
 excerpt: "A simple formula that shows whether your clothes are actually worth what you paid, and how to shop smarter using it."
 segment: "money-foundations"
 icon: "shopping"
