@@ -1,5 +1,5 @@
 ---
-title: "Having Fun on a Budget"
+title: "How to Have Fun on a Budget: No-Spend Ideas That Don't Feel Broke"
 excerpt: "A simple cash-only trick for people in their 20s and 30s who want to enjoy nights out without blowing their budget."
 segment: "money-foundations"
 icon: "cash"
