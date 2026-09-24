@@ -1,5 +1,5 @@
 ---
-title: "How to Budget for a BBL: What It Actually Costs and How Long It Takes"
+title: "How Much Does a BBL Cost? (Budget, Payment Plans & Saving Timeline)"
 excerpt: "A real budget breakdown for saving toward a BBL by income level, using the 50-30-20 rule, with honest timelines included."
 segment: "money-foundations"
 icon: "budget"
