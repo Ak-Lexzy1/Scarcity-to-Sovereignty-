@@ -1,5 +1,5 @@
 ---
-title: "FAFSA and Scholarships for Single Parents: Real Money, Real Deadlines (Updated Guide)"
+title: "FAFSA and Scholarships for Single Parents: Deadlines & How to Apply (Updated Guide)"
 excerpt: "Verified scholarships and financial aid for single parents going back to school, with real amounts, deadlines, and full websites included."
 segment: "financial-support-resources"
 icon: "education"
