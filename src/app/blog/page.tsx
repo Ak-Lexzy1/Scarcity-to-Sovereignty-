@@ -5,8 +5,9 @@ import { segments } from "@/lib/segments";
 import PostCard from "@/components/PostCard";
 
 export const metadata: Metadata = {
-  title: "Blog",
-  description: "Practical money habits and mindset shifts, organized by segment.",
+  title: "Budgeting Tips, Side Hustles & Financial Help | Scarcity 2 Sovereignty",
+  description:
+    "Practical budgeting tips, legit ways to make money online, mindset shifts for financial freedom, and verified financial assistance resources — all in one place.",
 };
 
 export default async function BlogPage({
