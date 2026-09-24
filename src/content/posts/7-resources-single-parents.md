@@ -23,25 +23,25 @@ I built this list the hard way, checking each program against fraud records, cur
 
 These four, which you'll be reading about below, are structured differently from most assistance programs. They're either entitlements or intentionally fully funded, which means eligible families who apply are actually likely to receive help, not stuck on a waitlist that never moves.
 
-### SNAP (food assistance)
+### 1. SNAP (food assistance)
 
 SNAP covers groceries through a monthly EBT card. For fiscal year 2026, the average benefit runs about $188 per person per month, roughly $6.17 a day, though your actual amount depends on household size and income. Maximum monthly benefits range from $298 for a single person up to $994 for a household of four. Eligibility is based on income relative to the federal poverty line, and most working single parents with modest income do qualify for something, even if it's not the maximum.
 
 Apply at [fns.usda.gov/snap](https://www.fns.usda.gov/snap)
 
-### WIC (Women, Infants, and Children)
+### 2. WIC (Women, Infants, and Children)
 
 WIC provides monthly food packages, not cash, specifically for pregnant women, new mothers, and children up to age 5. It covers items like milk, eggs, whole grains, fruits and vegetables, prescribed based on your family's nutritional needs. Income limit is generally 185% of the federal poverty level.
 
 Apply at [fns.usda.gov/wic](https://www.fns.usda.gov/wic)
 
-### Medicaid and CHIP (health coverage for your kids)
+### 3. Medicaid and CHIP (health coverage for your kids)
 
 This one covers doctor visits, hospital care, and prescriptions at little to no cost. The federal government's own benchmark states that an estimated 91% of eligible children without other coverage are actually enrolled, making this one of the highest-reach programs in the entire safety net. Income limits vary by state, but children typically qualify at higher thresholds than adults, often 200-300% of the federal poverty level.
 
 Apply at [insurekidsnow.gov](https://www.insurekidsnow.gov)
 
-### EITC (Earned Income Tax Credit)
+### 4. EITC (Earned Income Tax Credit)
 
 This is a refundable tax credit, meaning you get the full amount back even if you owe no federal taxes. For the 2025 tax year, the maximum credit runs up to $7,152 with two qualifying children, or $8,046 with three or more. Tax credit amounts adjust yearly, so confirm the current figure directly at irs.gov before filing.
 
@@ -51,7 +51,7 @@ Apply at [irs.gov/credits-deductions/individuals/earned-income-tax-credit](https
 
 These three are smaller, more specific, and genuinely underused simply because they don't come up in a typical search for "government assistance."
 
-### Compassion Can't Wait
+### 5. Compassion Can't Wait
 
 Founded by Valerie Sobel in 2000, after she lost her son to a brain tumor at 19, followed within a year by her mother and, devastatingly, her husband. Out of that loss, she built a foundation specifically for single parents caring for a critically ill child. Over its history, the foundation has distributed more than $3.7 million in grants to roughly 2,600 families, covering everything from groceries and utilities to rent, so a parent can stay at their child's bedside instead of choosing between income and presence.
 
@@ -59,13 +59,13 @@ One important detail: a parent can't apply directly. A hospital social worker su
 
 Learn more at [compassioncantwait.org](https://www.compassioncantwait.org)
 
-### The Single Parent Project
+### 6. The Single Parent Project
 
 Founded by two women who lived through divorce and understood firsthand what running a household on one income actually feels like. This one goes beyond a single check. Alongside direct financial relief for things like rent, groceries, or an unexpected car repair, recipients are paired with a peer mentor, a coach, and a budget counselor. Eligibility requires being single, widowed, divorced, or separated, with a divorce that's nearly finalized.
 
 Apply at [singleparentproject.org](https://www.singleparentproject.org)
 
-### The Kickass Single Mom Grant (Wealthy Single Mommy)
+### 7. The Kickass Single Mom Grant (Wealthy Single Mommy)
 
 Run personally by Emma Johnson, a journalist and bestselling author of The Kickass Single Mom. This is a genuinely no-strings $500 cash grant, no restrictions on how you spend it, no repayment, no reporting required afterward. The frequency has shifted over the years, weekly during the pandemic, then monthly, and the most recent update on her site describes it as annual now, so check her page directly for the current schedule before you apply.
 
