@@ -1,5 +1,5 @@
 ---
-title: "Online Income Ideas Actually Worth Your Time This Year"
+title: "Legit Work From Home Jobs: Online Income Ideas Worth Your Time This Year "
 excerpt: "Not every 'make money online' idea is created equal. Here's how to evaluate one before you sink hours into it."
 segment: "wealth-income-building"
 icon: "laptop"
