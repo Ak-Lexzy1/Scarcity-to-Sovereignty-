@@ -1,5 +1,5 @@
 ---
-title: "How Couples Can Budget Together Without the Arguments"
+title: "How Couples Can Budget Together Without the Arguments and Fights"
 excerpt: "Money is one of the top reasons couples fight. Here's a step-by-step system that removes the guesswork, and most of the tension."
 segment: "money-foundations"
 icon: "team"
