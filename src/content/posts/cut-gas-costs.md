@@ -1,5 +1,5 @@
 ---
-title: "6 Simple Ways to Cut Gas Costs Without Changing Your Whole Routine"
+title: "6 Simple Ways to Save Money on Gas Without Changing Your Routine"
 excerpt: "Small, EPA-backed driving and maintenance habits that lower your fuel costs without a new car or a new commute."
 segment: "money-foundations"
 icon: "car"
