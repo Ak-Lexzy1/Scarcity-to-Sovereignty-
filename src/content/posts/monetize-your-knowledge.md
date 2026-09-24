@@ -1,5 +1,5 @@
 ---
-title: "The Real Reasons You Should Monetize Your Knowledge (Even If You Feel Insecure)"
+title: "How to Monetize Your Knowledge Even If You Feel Like an Imposter"
 excerpt: "Imposter syndrome quietly costs people real money and real opportunities. Here's why you don't need to feel ready to start teaching."
 segment: "mindset-freedom"
 icon: "achievement"
