@@ -1,5 +1,5 @@
 ---
-title: "8 Investments Every Woman Should Make (That Have Nothing to Do With Stocks)"
+title: "8 Best Investments for Women That Aren't Stocks"
 excerpt: "Eight investments women consistently overlook, until life sends the invoice. Start paying on your own terms instead."
 segment: "wealth-income-building"
 icon: "invest"
