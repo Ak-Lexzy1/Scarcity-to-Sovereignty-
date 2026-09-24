@@ -1,5 +1,5 @@
 ---
-title: "The 4 Paths to Becoming a Millionaire (and Which One Fits You)"
+title: "How Millionaires Get Rich: The 4 Paths and The One That Fit You"
 excerpt: "A 5-year study of 233 millionaires found they all built wealth through one of four distinct paths. Here's what each one actually demands."
 segment: "wealth-income-building"
 icon: "milestone"
