@@ -1,5 +1,5 @@
 ---
-title: "The Demon That Keeps Hardworking People Broke"
+title: "Lifestyle Creep Explained: Why Your Raises Disappear"
 excerpt: "The invisible pattern that keeps hardworking people broke, and the cashflow strategy that actually breaks it."
 segment: "wealth-income-building"
 icon: "energy"
