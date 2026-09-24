@@ -1,5 +1,5 @@
 ---
-title: "(Free Download) Monthly Budget Planner: See Exactly Where Your Money Goes"
+title: "Free Monthly Budget Planner: Printable to Track Paychecks"
 excerpt: "A free, printable monthly budget planner that shows you exactly where your money goes, no app, no guesswork, just clarity."
 segment: "money-foundations"
 icon: "checklist"
