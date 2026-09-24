@@ -1,5 +1,5 @@
 ---
-title: "Your Inner Phoenix: What Dies, What Rises, and What You Become"
+title: "How to Rebuild After Financial Rock Bottom: Your Phoenix Era"
 excerpt: "When you no longer feel like yourself, it's not the end. Here's how to rebuild your mind and rewrite your direction."
 segment: "mindset-freedom"
 icon: "rise"
