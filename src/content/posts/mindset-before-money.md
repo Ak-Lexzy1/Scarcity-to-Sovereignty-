@@ -1,5 +1,5 @@
 ---
-title: "The Mindset Shift Before The Money Shift"
+title: "The Mindset Shift Before The Money Shift Can Happen "
 excerpt: "Nobody budgets their way out of a scarcity mindset. Something else has to move first."
 segment: "mindset-freedom"
 icon: "mindset"
