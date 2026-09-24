@@ -1,5 +1,5 @@
 ---
-title: "How Exposure Shapes Your Belief of What Is Possible"
+title: "How Environment Shapes Your Wealth Exposure Psychology (Real Life Stagnancy Explained)"
 excerpt: "Your earliest environment quietly sets your ceiling for success. Here's how exposure rewires what your mind believes is possible."
 segment: "mindset-freedom"
 icon: "vision"
