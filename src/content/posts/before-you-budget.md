@@ -1,5 +1,5 @@
 ---
-title: "The One Question to Ask Before You Ever Make a Budget"
+title: "How to Make a Budget for Beginners: The One Question Before You Start"
 excerpt: "Before you build a budget, answer one question and see why the answer changes everything."
 segment: "money-foundations"
 icon: "question"
