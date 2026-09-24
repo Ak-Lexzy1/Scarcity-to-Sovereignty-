@@ -1,5 +1,5 @@
 ---
-title: "How to Use Online Trolls to Your Personal and Business Advantage"
+title: "How to Handle Online Trolls (Turn Hate Into Personal and Business Traffic)"
 excerpt: "Trolls aren't the enemy, misplaced attention is. Here's how to turn online negativity into traffic, growth, and real revenue."
 segment: "mindset-freedom"
 icon: "shield"
