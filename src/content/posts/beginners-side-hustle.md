@@ -1,5 +1,5 @@
 ---
-title: "6 Side Hustle Ideas for Beginners Who've Never Made Extra Income Before"
+title: "6 Side Hustle Ideas for Beginners With No Experience/Zero Earned Income"
 excerpt: "No business plan, no startup capital, no experience needed. Here are 6 real side hustle ideas built for total beginners."
 segment: "wealth-income-building"
 icon: "hand-coins"
