@@ -1,5 +1,5 @@
 ---
-title: "Investing When You're Starting From Zero (Not From a Windfall)"
+title: "How to Start Investing With Little Money (From Zero to First $100)"
 excerpt: "Most investing content assumes you already have spare capital sitting around. This one doesn't."
 segment: "wealth-income-building"
 icon: "invest"
