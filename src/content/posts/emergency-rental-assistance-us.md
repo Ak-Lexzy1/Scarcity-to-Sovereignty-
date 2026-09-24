@@ -29,17 +29,17 @@ Before anything else, call **211**, or visit **211.org**. This is a free hotline
 
 ## Organizations still actively helping right now
 
-**The Salvation Army**
+**1. The Salvation Army:**
 Confirmed active nationwide, with over 7,000 locations across the country. Unlike the old federal program, this one is funded through the Salvation Army's own operating budget, not government grants, which is exactly why it kept running when ERA wound down. Typical assistance runs $200 to $600 in gap funding, paid directly to your landlord rather than to you.
 
 Apply at [salvationarmyusa.org](https://www.salvationarmyusa.org)
 
-**Catholic Charities**
+**2. Catholic Charities:**
 Faith-based, but assistance is generally available regardless of your religious affiliation. This organization has provided rental and emergency assistance continuously throughout the wind-down of federal programs, and remains one of the more consistently funded options nationally.
 
 Apply at [catholiccharitiesusa.org](https://www.catholiccharitiesusa.org)
 
-**HUD's ongoing housing programs**
+**3. HUD's ongoing housing programs:**
 These aren't emergency one-time grants, they're permanent federal housing support that never depended on the ERA program in the first place:
 
 - **Housing Choice Voucher Program (Section 8)** — ongoing rental subsidy for eligible low-income households
@@ -48,7 +48,7 @@ These aren't emergency one-time grants, they're permanent federal housing suppor
 
 Learn more at [hud.gov](https://www.hud.gov)
 
-**Community Development Block Grants (CDBG)**
+**Community Development Block Grants (CDBG):**
 Federal money that still flows to local cities and counties, administered at the local level rather than through a national application. The most effective approach here is searching "[your city or county] emergency rental assistance" directly, since these programs rarely show up in general national searches.
 
 ## The genuinely underused resource: Right to Counsel
