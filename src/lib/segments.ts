@@ -9,28 +9,28 @@ export interface Segment {
 export const segments: Segment[] = [
   {
     slug: "money-foundations",
-    name: "Money Foundations",
+    name: "Budgeting & Money Management",
     subtitle: "Practical Budgeting · Saving Strategies · Financial Literacy",
     description:
       "The everyday fundamentals — budgeting systems, saving strategies, and financial literacy for anyone starting from scratch.",
   },
   {
     slug: "wealth-income-building",
-    name: "Wealth & Income Building",
+    name: "Make Money Online",
     subtitle: "Real Income Ideas · Making Money Online · Side Hustles · Smart Investing",
     description:
       "Growing beyond your current income — online income ideas, side hustles, and smart, educational investing.",
   },
   {
     slug: "mindset-freedom",
-    name: "Mindset & Freedom",
+    name: "Money Mindset",
     subtitle: "Financial Freedom · Positive Wealth-Building Mindset",
     description:
       "The inner work behind the outer results — shifting from scarcity thinking to a mindset built for financial freedom.",
   },
   {
     slug: "financial-support-resources",
-    name: "Financial Support Resources",
+    name: "Financial Help & Resources",
     subtitle: "Verified Government & Private Support Programs",
     description:
       "Real, verified resources — government and private programs — for people who need genuine financial assistance right now.",
