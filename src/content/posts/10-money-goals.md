@@ -1,5 +1,5 @@
 ---
-title: "10 Personal Finance Goals to Crush This Year"
+title: "Personal Finance Goals for Beginners: 10 Realistic Goals To Crush This Year"
 excerpt: "Ten personal finance goals worth setting this year, from budgeting to reinvesting returns, explained the way a friend would tell you."
 segment: "money-foundations"
 icon: "goal"
