@@ -1,5 +1,5 @@
 ---
-title: "5 Habits That Quietly Build Wealth (Even on a Small Income)"
+title: "How to Build Wealth on a Small Income: The 5 Quiet Habits"
 excerpt: "Wealth rarely starts with a windfall. It starts with a handful of small, boring decisions repeated so consistently they stop feeling like decisions at all."
 segment: "money-foundations"
 icon: "compound"
