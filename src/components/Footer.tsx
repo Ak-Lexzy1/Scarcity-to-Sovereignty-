@@ -31,11 +31,10 @@ export default function Footer() {
           <div>
             <p className="text-[11px] uppercase tracking-[0.2em] text-gold">Segments</p>
             <ul className="mt-4 space-y-2 text-sm text-cream/80">
-              <li><Link href="/blog?segment=money-foundations" className="hover:text-gold">Money Foundations</Link></li>
-              <li><Link href="/blog?segment=wealth-income-building" className="hover:text-gold">Wealth &amp; Income Building</Link></li>
-              <li><Link href="/blog?segment=mindset-freedom" className="hover:text-gold">Mindset &amp; Freedom</Link></li>
-              <li><Link href="/blog?segment=financial-support-resources" className="hover:text-gold">Financial Support Resources</Link></li>
-            </ul>
+              <li><Link href="/blog?segment=money-foundations" className="hover:text-gold">Budgeting & Money Management</Link></li>
+              <li><Link href="/blog?segment=wealth-income-building" className="hover:text-gold">Make Money Online</Link></li>
+              <li><Link href="/blog?segment=mindset-freedom" className="hover:text-gold">Money Mindset</Link></li>
+              <li><Link href="/blog?segment=financial-support-resources" className="hover:text-gold">Financial Help & Resources</Link></li>            </ul>
           </div>
         </div>
 
