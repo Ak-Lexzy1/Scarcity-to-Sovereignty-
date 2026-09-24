@@ -1,5 +1,5 @@
 ---
-title: "Realistic Budget Plan for Single Moms Stretching Every Dollar"
+title: "The Single Mom Paycheck Budget Plan for One Income"
 excerpt: "Most budgeting advice assumes two incomes and a safety net. Here's a realistic budget system built for one income covering everything."
 segment: "money-foundations"
 icon: "shield"
