@@ -21,8 +21,7 @@ If you're still chasing any of these, it's time to let them go, because they got
 
 I won't say they're outright scams. They're just not worth your time anymore. The pay has quietly bottomed out while AI tools do the same job faster and cheaper than a human ever could. Don't let a five-year-old "make money online" listicle talk you into one of these. Redirect that same energy into the 10 below instead, the ones AI genuinely can't fully replace yet.
 
-## 1. Freelance transcription
-(Not the version you're thinking of).
+## 1. Freelance transcription *(Not the version you're thinking of)*
 
 What it is: listening to recorded audio, podcasts, meetings, interviews, and typing out exactly what's said. Headphones, no calls, ever.
 
