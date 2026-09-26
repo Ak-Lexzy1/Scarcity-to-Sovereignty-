@@ -99,7 +99,7 @@ What it is: helping train AI models by labeling data, evaluating outputs, or pro
 
 **Places to explore as a newbie:** Appen, Clickworker
 
-**Places to navigate into once you become a pro:** DataAnnotation.tech, Outlier AI, Alignerr
+**Places to navigate into once you become a pro:** DataAnnotation.tech, Outlier AI, Alignerr. Micro1 is also a good platform to explore and they have so many openings regarding anything AI and more. I once took their test to apply for an AI training gig.
 
 ## 6. Selling digital printables on Etsy *(The numbers are real but they're also not yours yet)*
 
