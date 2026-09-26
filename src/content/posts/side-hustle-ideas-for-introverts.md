@@ -37,8 +37,7 @@ What it is: listening to recorded audio, podcasts, meetings, interviews, and typ
 
 **Places to navigate into once you become a pro:** SpeakWrite, eScribers, Daily Transcription (legal and medical transcription pay significantly more but expect stricter qualification tests)
 
-## 2. Proofreading and editing
-## (Undercharge once, pay for it for years).
+## 2. Proofreading and editing *(Undercharge once, pay for it for years)*
 
 What it is: a client sends you a manuscript, thesis, or document. You send it back clean, against a style guide, usually within a 24-72 hour window.
 
@@ -51,9 +50,10 @@ What it is: a client sends you a manuscript, thesis, or document. You send it ba
 **Estimated income:** $15-50/hour depending on experience and the type of content. Many proofreaders pair this with resume writing as a second, closely related service, since both draw on the same skill set.
 
 **Places to explore as a newbie:** Upwork
+
 **Places to navigate into once you become a pro:** Reedsy (book editing marketplace), Scribbr (academic proofreading network)
 
-## 3. Freelance writing (Clients aren't paying for AI anymore).
+## 3. Freelance writing *(Clients aren't paying for AI anymore)*
 
 What it is: blog posts, website copy, and marketing content, pitched and delivered entirely through email and shared documents.
 
@@ -66,9 +66,10 @@ What it is: blog posts, website copy, and marketing content, pitched and deliver
 **Estimated income:** Highly variable, ranging from $50 per blog post as a beginner to $200-500+ per piece once you have a track record and a niche.
 
 **Places to explore as a newbie:** Upwork, Contently
+
 **Places to navigate into once you become a pro:** ClearVoice, WriterAccess, direct client pitching once you have a portfolio
 
-## 4. Virtual bookkeeping (No degree needed, but one mistake can end it).
+## 4. Virtual bookkeeping *(No degree needed, but one mistake can end it)*
 
 What it is: helping small business owners organize income and expenses, usually communicated entirely through email and shared spreadsheets.
 
@@ -81,9 +82,10 @@ What it is: helping small business owners organize income and expenses, usually 
 **Estimated income:** $20-22/hour at entry level. Bookkeepers who take on executive-level financial organization across multiple clients can push meaningfully higher.
 
 **Places to explore as a newbie:** Upwork, Belay
+
 **Places to navigate into once you become a pro:** Bench, the QuickBooks ProAdvisor network (connects certified bookkeepers directly with clients)
 
-## 5. AI data annotation and training (Pays up to $100/hour if you know your onion and where to look)
+## 5. AI data annotation and training *(Pays up to $100/hour if you know your onion and where to look)*
 
 What it is: helping train AI models by labeling data, evaluating outputs, or providing structured feedback, entirely through a web platform.
 
@@ -96,9 +98,10 @@ What it is: helping train AI models by labeling data, evaluating outputs, or pro
 **Estimated income:** Roughly $10-20/hour for general labeling work, $25-30+/hour for general projects on DataAnnotation specifically, and $50-100+/hour for coding, STEM, or professional-track work.
 
 **Places to explore as a newbie:** Appen, Clickworker
+
 **Places to navigate into once you become a pro:** DataAnnotation.tech, Outlier AI, Alignerr
 
-## 6. Selling digital printables on Etsy (The numbers are real. They're also not yours yet).
+## 6. Selling digital printables on Etsy *(The numbers are real but they're also not yours yet)*
 
 What it is: creating downloadable products, budget trackers, planners, resume templates, that buyers pay for once and print or use themselves.
 
@@ -112,7 +115,7 @@ What it is: creating downloadable products, budget trackers, planners, resume te
 
 **Places to explore as a newbie and once you become a pro:** Etsy is the primary platform at every level, your portfolio and reviews determine your earnings, not a platform switch. Creative Market is worth adding as a secondary marketplace once you've built a design portfolio.
 
-## 7. Virtual assistant work ("Non-phone" doesn't always mean non-phone).
+## 7. Virtual assistant work *("Non-phone" doesn't always mean non-phone)*
 
 What it is: email management, scheduling, and administrative support, handled entirely through written communication.
 
@@ -125,9 +128,10 @@ What it is: email management, scheduling, and administrative support, handled en
 **Estimated income:** $20-22/hour at entry level. Specialists managing multiple inboxes or handling basic bookkeeping across time zones can earn meaningfully more.
 
 **Places to explore as a newbie:** Upwork, Fancy Hands
+
 **Places to navigate into once you become a pro:** Belay, Time Etc (established, higher-end VA placement agencies)
 
-## 8. Search and AI quality evaluation (You just tell AI when it's wrong but you've got to stay grounded)
+## 8. Search and AI quality evaluation *(You just tell AI when it's wrong but you've got to stay grounded)*
 
 What it is: evaluating search results or AI outputs for quality and relevance, based on written guidelines, no live interaction required.
 
@@ -140,9 +144,10 @@ What it is: evaluating search results or AI outputs for quality and relevance, b
 **Estimated income:** $25-45/hour for part-time English evaluation roles on TELUS Digital AI. CrowdGen advertises rates up to $100+/hour depending on your specific skills and location, though that's the high end, not the norm.
 
 **Places to explore as a newbie:** Appen (CrowdGen), Clickworker
+
 **Places to navigate into once you become a pro:** TELUS Digital AI (more structured, better-paying long-term projects)
 
-## 9. Pet sitting and dog walking through apps (Easiest one here but ask one important question first)
+## 9. Pet sitting and dog walking through apps *(Easiest one here but ask one important question first)*
 
 What it is: caring for other people's pets, scheduled and paid entirely through an app, with minimal ongoing conversation beyond initial coordination.
 
@@ -156,7 +161,7 @@ What it is: caring for other people's pets, scheduled and paid entirely through 
 
 **Places to explore as a newbie and once you become a pro:** Rover and Wag are the two established platforms at every experience level, more bookings and better reviews are what raise your earnings here, not a different app.
 
-## 10. Resume writing (You're not formatting. You're rewriting).
+## 10. Resume writing *(You're not formatting, you're rewriting)*
 
 What it is: helping job seekers turn their experience into a polished, professional resume, communicated entirely through email and document sharing.
 
@@ -169,6 +174,7 @@ What it is: helping job seekers turn their experience into a polished, professio
 **Estimated income:** Project-based, typically $50-25+ per resume for beginners, climbing well past $150-200+ per resume once you have a track record and client testimonials.
 
 **Places to explore as a newbie:** Upwork, Fiverr
+
 **Places to navigate into once you become a pro:** TopResume (established resume-writing service that hires experienced writers directly), direct client referrals
 
 ## The honest bottom line
