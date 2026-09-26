@@ -21,7 +21,8 @@ If you're still chasing any of these, it's time to let them go, because they got
 
 I won't say they're outright scams. They're just not worth your time anymore. The pay has quietly bottomed out while AI tools do the same job faster and cheaper than a human ever could. Don't let a five-year-old "make money online" listicle talk you into one of these. Redirect that same energy into the 10 below instead, the ones AI genuinely can't fully replace yet.
 
-## 1. Freelance transcription (Not the version you're thinking of).
+## 1. Freelance transcription
+(Not the version you're thinking of).
 
 What it is: listening to recorded audio, podcasts, meetings, interviews, and typing out exactly what's said. Headphones, no calls, ever.
 
@@ -34,9 +35,11 @@ What it is: listening to recorded audio, podcasts, meetings, interviews, and typ
 **Estimated income:** $15-25/hour for general work. Legal transcription specialists can hit $44,000-$56,000/year, but be honest with yourself about the ramp: some platforms pay as little as $0.06 per edited page during training, and new hires have reported 3+ weeks with no income while learning jurisdiction-specific formatting.
 
 **Places to explore as a newbie:** TranscribeMe, GoTranscript, Rev
+
 **Places to navigate into once you become a pro:** SpeakWrite, eScribers, Daily Transcription (legal and medical transcription pay significantly more but expect stricter qualification tests)
 
-## 2. Proofreading and editing (Undercharge once, pay for it for years).
+## 2. Proofreading and editing
+## (Undercharge once, pay for it for years).
 
 What it is: a client sends you a manuscript, thesis, or document. You send it back clean, against a style guide, usually within a 24-72 hour window.
 
