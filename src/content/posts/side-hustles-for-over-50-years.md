@@ -9,7 +9,7 @@ readTime: "12 min read"
 
 After about 30 years of work, you know how to get things done. You've become good at what you do, not from a course, but from actually doing it. Think back to the long days, the tough bosses, the projects that nearly went sideways. Those kinds of experiences don't expire. If anything, they're worth more now.
 
-You might even have a 20-year-old nephew, niece, or grandchild who's probably a TikToker telling you, "Grandma, why not try out dropshipping now that you've retired and had free time?" It's laughable though, because here's the thing no one tells you about turning 50. You didn't lose skills, you stacked them. You know how to talk to people, manage a mess, and spot a bad deal from a mile away, all worth more than that crappy suggestion from a kid, built over years most 25-year-olds haven't even lived yet.
+You might even have a 20-year-old nephew, niece, or grandchild who's probably a TikToker telling you, "why not try out dropshipping now that you've retired and had free time?" It's laughable though, because here's the thing no one tells you about turning 50. You didn't lose skills, you stacked them. You know how to talk to people, manage a mess, and spot a bad deal from a mile away, all worth more than that crappy suggestion from a kid, built over years most 25-year-olds haven't even lived yet.
 
 Most 25-year-olds would pay for that. So why let it sit there when you could turn it into something that gives you more freedom?
 
