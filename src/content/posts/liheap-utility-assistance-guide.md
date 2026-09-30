@@ -1,5 +1,5 @@
 ---
-title: "How to Get Help Paying Your Heating Bill Before Winter: LIHEAP & Utility Assistance Programs"
+title: "How to Get Help Paying Your Heating Bill Before Winter: LIHEAP & Utility Assistance Programs-2026/2027"
 excerpt: "Need help paying your heating bill? Here's how LIHEAP and utility assistance programs work, who qualifies, and how to apply before winter."
 segment: "financial-support-resources"
 icon: "home"
