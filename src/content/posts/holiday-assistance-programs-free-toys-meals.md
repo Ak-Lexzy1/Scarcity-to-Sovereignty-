@@ -18,15 +18,10 @@ I wrote this guide because real help exists for exactly that. Here are the progr
 In this guide, I'll break down in plain and understandable details:
 
 **- Two real, verified programs for toys.**
-
 **- How to get help with Thanksgiving and Christmas meals.**
-
 **- Eligibility requirements and links to genuine websites.**
-
 **- A strict rule you probably don't know about, one that could get you disqualified if you're not careful.**
-
 **- Your legal right to keep your heat on during winter, something most people don't know exists.**
-
 **- Other genuine assistance programs you can explore.**
 
 This is a straight list of verified programs, where to get free toys, free holiday meals, and winter utility protection, complete with links and deadlines. Let's get into it now, while there's still time.
