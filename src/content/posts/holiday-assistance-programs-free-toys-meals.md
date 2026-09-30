@@ -18,10 +18,15 @@ I wrote this guide because real help exists for exactly that. Here are the progr
 In this guide, I'll break down in plain and understandable details:
 
 **- Two real, verified programs for toys.**
+
 **- How to get help with Thanksgiving and Christmas meals.**
+
 **- Eligibility requirements and links to genuine websites.**
+
 **- A strict rule you probably don't know about, one that could get you disqualified if you're not careful.**
+
 **- Your legal right to keep your heat on during winter, something most people don't know exists.**
+
 **- Other genuine assistance programs you can explore.**
 
 This is a straight list of verified programs, where to get free toys, free holiday meals, and winter utility protection, complete with links and deadlines. Let's get into it now, while there's still time.
@@ -32,27 +37,27 @@ Before anything else, the single biggest mistake people make with holiday assist
 
 Registration windows for both toy drives and holiday meal programs commonly open in **September or October**, and they close once each local chapter reaches capacity, often weeks before Christmas actually arrives. If you wait until the second week of December to start looking, you may already be too late for this year. Start now.
 
-## Toy drives: two real, verified programs
+## 1. Toy drives: two real, verified programs
 
-**Toys for Tots**, run by the U.S. Marine Corps Reserve, is the largest program of its kind. Eligibility and exact age cutoffs are set at the local chapter level, most commonly covering children up to age 12, sometimes extending to 13 or 14 depending on your area. Many local chapters use enrollment in another benefit program, SNAP, WIC, or TANF, as a quick way to confirm eligibility, though this isn't universal, so check your specific chapter's requirements directly.
+**•Toys for Tots**, run by the U.S. Marine Corps Reserve, is the largest program of its kind. Eligibility and exact age cutoffs are set at the local chapter level, most commonly covering children up to age 12, sometimes extending to 13 or 14 depending on your area. Many local chapters use enrollment in another benefit program, SNAP, WIC, or TANF, as a quick way to confirm eligibility, though this isn't universal, so check your specific chapter's requirements directly.
 
 Apply through your local chapter at [toysfortots.org](https://www.toysfortots.org).
 
-**The Salvation Army's Angel Tree program** serves roughly 1 million children nationally in a typical year, providing new clothes and toys. You'll need documentation to register: a photo ID, proof of residence (a lease, a utility bill, or mail from your school district or another government agency), and something establishing your relationship to the child, a birth certificate or guardianship paperwork. JCPenney partners nationally with the Salvation Army as a distribution point for Angel Tree gifts.
+**•The Salvation Army's Angel Tree program** serves roughly 1 million children nationally in a typical year, providing new clothes and toys. You'll need documentation to register: a photo ID, proof of residence (a lease, a utility bill, or mail from your school district or another government agency), and something establishing your relationship to the child, a birth certificate or guardianship paperwork. JCPenney partners nationally with the Salvation Army as a distribution point for Angel Tree gifts.
 
 Find your local Salvation Army location and Angel Tree registration details at [salvationarmyusa.org](https://www.salvationarmyusa.org).
 
 **Here's the heads-up almost nobody tells you upfront:** most local chapters, across both programs, enforce a strict "one program" rule. Applying to more than one holiday charity, say, Salvation Army and Toys for Tots and a local church program, can get your family disqualified from all of them once organizations cross-check registrations. Pick one, apply early, and apply honestly.
 
-## Meal programs: bigger than you'd think, and a real eligibility myth
+## 2. Meal programs: bigger than you'd think, and a real eligibility myth
 
 Feeding America's network spans over 200 food banks and more than 60,000 food pantries across all 50 states, one of the largest charitable infrastructures in the country. In 2026, demand has genuinely been outpacing capacity at many of these food banks, driven by rising operating costs and a disruption to federal commodity deliveries in 2025, so donations and volunteer support matter more than ever, and so does applying early.
 
-**Here's the myth worth correcting directly:** a lot of people assume food banks are only for households already on SNAP. That's not true, and the gap is bigger than most people realize. Nearly half of everyone experiencing food insecurity nationally, an estimated 25 million people, actually has income too high to qualify for SNAP at all. If you've ever assumed you made "too much" to ask for help, you may be exactly who this system was built to catch.
+**•Here's the myth worth correcting directly:** a lot of people assume food banks are only for households already on SNAP. That's not true, and the gap is bigger than most people realize. Nearly half of everyone experiencing food insecurity nationally, an estimated 25 million people, actually has income too high to qualify for SNAP at all. If you've ever assumed you made "too much" to ask for help, you may be exactly who this system was built to catch.
 
-**How to actually get a Thanksgiving or Christmas meal:** contact your local food bank directly (search "[your city] food bank Thanksgiving" or check [feedingamerica.org](https://www.feedingamerica.org) to find your nearest one), or call 211, the same free referral hotline covered in our other assistance guides. Registration for holiday-specific meal boxes and turkey giveaways typically opens in mid-October and closes at capacity, so this is not a December errand.
+**•How to actually get a Thanksgiving or Christmas meal:** contact your local food bank directly (search "[your city] food bank Thanksgiving" or check [feedingamerica.org](https://www.feedingamerica.org) to find your nearest one), or call 211, the same free referral hotline covered in our other assistance guides. Registration for holiday-specific meal boxes and turkey giveaways typically opens in mid-October and closes at capacity, so this is not a December errand.
 
-## The real hidden find of this post: you may have a legal right to keep your heat on
+## 3. The real hidden find of this post: you may have a legal right to keep your heat on
 
 This is genuinely different from anything else in this guide, and it's the part I most want you to walk away knowing.
 
