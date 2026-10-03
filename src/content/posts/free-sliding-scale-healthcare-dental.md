@@ -15,7 +15,7 @@ You're not avoiding care because you don't care about your health. You're avoidi
 
 If this is you, I'm telling you plainly: real, legitimate healthcare and dental care exist specifically for exactly this situation, and most of it doesn't require insurance at all.
 
-Here's exactly what I'm covering, so you can find your piece of this quickly and just get to it:
+**Here's exactly what I'm covering, so you can find your piece of this quickly and just get to it:**
 
 - The federal safety net already serving 1 in 10 Americans, that most people have genuinely never heard of.
 - Exactly how the pricing works, and the income level that actually qualifies you.
