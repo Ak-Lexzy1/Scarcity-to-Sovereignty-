@@ -1,5 +1,5 @@
 ---
-title: "How to Ask for a Pay Raise at Work: 7 Negotiation Scripts That Work"
+title: "How to Ask for a Pay Raise at Work: 10 Negotiation Scripts That Work"
 excerpt: "Word-for-word negotiation scripts for asking for a raise, built for different real situations, backed by actual negotiation research."
 segment: "wealth-income-building"
 icon: "deal"
@@ -9,54 +9,56 @@ readTime: "15 min read"
 
 I worked a couple of 9-to-5 jobs for a few years before I finally decided it wasn't the path for me, shortly after attending a life-changing seminar. I then decided to earn a living from my own skills instead, and it started paving the way toward the life I'd been dreaming of. I'm not fully there yet, but I'm genuinely enjoying the journey.
 
-Here's the truth most content out there won't say plainly: not everybody is built for that path. Some people are genuinely well suited to a 9-to-5, and if they dabble in entrepreneurship or freelancing, they're going to struggle badly. It's not everyone who can be the next Elon Musk building groundbreaking technology, or the next Jeff Bezos building a global e-commerce empire. It's not everyone who can survive the financial rigor of a startup, either. Plenty of people who left a stable job for entrepreneurship did so badly that going back to a 9-to-5 ended up being their saving grace.
+The truth most content out there won't say plainly is that not everybody is built for that path. Some people are genuinely well suited to a 9-to-5, and if they dabble in entrepreneurship or freelancing, they're going to struggle badly.
+
+It's not everyone who can be the next Elon Musk building groundbreaking technology, or the next Jeff Bezos building a global e-commerce empire. It's not everyone who can survive the financial rigor of a startup, either. Plenty of people who left a stable job for entrepreneurship did so badly that going back to a 9-to-5 ended up being their saving grace.
 
 Some people just want to wake up, go to work, do their job well, and get paid fairly for it. That's the life they love and chose, on purpose. Their only real worry is doing that work with the right company, one that pays well enough to live comfortably, builds a stable income, supports a happy family, and lets them retire without fear, with real retirement funds and savings stacked from years of honest work.
 
-If that's you, this post is for you. And the single biggest lever you have inside that path isn't a side hustle. It's knowing exactly how to ask for what you're actually worth, in the room, on the page, in the moment it counts.
+If that's you, this post is for you. And the single biggest lever you have inside that path isn't a side hustle. It's knowing exactly how to ask for what you're actually worth, in the room, on the page, and in the moment it counts.
 
-Here's what I'm covering:
+**I took my time to do some deep research before writing this post, and in this well detailed guide, here's what I'm covering:**
 
-- Why staying loyal is quietly costing you more than you think (the real, current numbers)
-- The actual psychology behind every successful negotiation, backed by research, not guesswork
-- 10 word-for-word scripts, built for different situations: the annual review, the promotion ask, the competing offer, the counter-counter when they say no, and more
-- A separate script built specifically for teachers, since pay there works completely differently from everywhere else
-- Quick, honest salary context by industry, so you know roughly where you actually stand before you open your mouth
-- Exactly how and when to deliver each script, in person, by email, or somewhere in between
+- Why staying loyal is quietly costing you more than you think (the real, current numbers).
+- The actual psychology behind every successful negotiation, backed by research, not guesswork.
+- 10 word-for-word scripts, built for different situations: the annual review, the promotion ask, the competing offer, the counter-counter when they say no, and more.
+- A separate script built specifically for teachers, since pay there works completely differently from everywhere else.
+- Quick, honest salary context by industry, so you know roughly where you actually stand before you open your mouth.
+- Exactly how and when to deliver each script, in person, by email, or somewhere in between.
 
-## The gap nobody tells you about
+## The important gap you should know which nobody tells you about
 
 Here's the number that should genuinely bother you. In 2025, people who switched jobs got an average raise of **15.3%**. People who stayed at their job and asked for a raise got an average of **4.8%**. That's not a small gap. That's roughly three times more money for leaving than for asking.
 
-And here's the part that makes staying feel riskier than it should: the average 2026 raise budget across companies sits around **3.4% to 3.6%**. Inflation has been running close to 3%. Do the math, and a "normal" raise barely keeps you where you already were. It's not really a raise. It's treading water with a nicer name.
+And this is the part that makes staying feel riskier than it should: the average 2026 raise budget across companies sits around **3.4% to 3.6%**. Inflation has been running close to 3%. Do the math, and a "normal" raise barely keeps you where you already were. It's not really a raise. It's treading water with a nicer name.
 
 Only **46% of employees feel comfortable asking for a raise** in the first place, even though **45% believe they're underpaid**. Over a third hesitate specifically out of fear of layoffs. None of that is irrational. It's just expensive, because the gap between staying silent and asking well is measured in real dollars, year after year, compounding the longer you wait.
 
-This post exists to close that gap.
+This post exists to close that gap. Please keep reading.
 
 ## What actually works, according to the research
 
-Before the scripts themselves, it's worth understanding the three things negotiation research keeps confirming, because they show up inside every script below.
+Before I go into the scripts themselves, it's worth understanding the three things negotiation research keeps confirming, because they show up inside every script below.
 
-**The first number spoken anchors the whole conversation.** Research from Columbia's Adam Galinsky, replicated by Harvard's Program on Negotiation, found that whoever states a number first can explain **50% to 85% of the final outcome**. This is why waiting passively for your employer to name a figure usually works against you.
+**• The first number spoken anchors the whole conversation:** Research from Columbia's Adam Galinsky, replicated by Harvard's Program on Negotiation, found that whoever states a number first can explain **50% to 85% of the final outcome**. This is why waiting passively for your employer to name a figure usually works against you.
 
-**Precise numbers anchor harder than round ones.** Asking for $83,500 lands more firmly than asking for $85,000, according to research published in the Journal of Experimental Social Psychology. A specific number signals you've actually done the math, not just picked a comfortable round figure out of the air.
+**• Precise numbers anchor harder than round ones:** Asking for $83,500 lands more firmly than asking for $85,000, according to research published in the Journal of Experimental Social Psychology. A specific number signals you've actually done the math, not just picked a comfortable round figure out of the air.
 
-**Simply countering matters more than how you phrase it.** UCLA Anderson research found that candidates who counter an offer even once average a **12.45% gain**, regardless of exactly how polished their wording was. The real failure mode isn't saying it imperfectly. It's staying quiet entirely.
+**• Simply countering matters more than how you phrase it:** UCLA Anderson research found that candidates who counter an offer even once average a **12.45% gain**, regardless of exactly how polished their wording was. The real failure mode isn't saying it imperfectly. It's staying quiet entirely.
 
-Keep those three things in your back pocket. Every script below is built around them.
+Keep those three things in your back pocket, because I built every script below around them.
 
-## 1. The annual review script
+## 1. The Annual Review Script
 
 This is the standard ask, used during a scheduled performance review, when you don't have a competing offer and aren't up for a title change, just a fair correction to your current pay.
 
-> "Before we wrap up, I wanted to raise something directly. Over the past year, I've [specific accomplishment with a number attached, e.g., 'reduced processing time by 18%' or 'brought in three new accounts worth $140K combined']. Based on what I've researched for this role at my experience level, the market range runs closer to $X to $Y. I'd like us to work toward $X specifically. What would it take to get there, either now or over the next review cycle?"
+> "Before we wrap up, I wanted to raise something directly. Over the past year, I've [put your specific accomplishment with a number attached, e.g., 'reduced processing time by 18%' or 'brought in three new accounts worth $140K combined']. Based on what I've researched for this role at my experience level, the market range runs closer to $X to $Y. I'd like us to work toward $X specifically. What would it take to get there, either now or over the next review cycle?"
 
-Notice the structure: evidence first, specific number second, a direct but collaborative question last. The question matters. It keeps the conversation open instead of ending on a flat demand they can simply say no to.
+I hope you noticed the structure: evidence first, specific number second, a direct but collaborative question last. The question matters because it keeps the conversation open instead of ending on a flat demand they can simply say no to.
 
 **Delivery:** in person or video call, ideally scheduled as part of your actual review, not sprung on them at the end of an unrelated meeting.
 
-## 2. The promotion-with-raise script
+## 2. The Promotion-with-Raise Script
 
 Use this when you're already doing work above your current title, and you want the title and the pay to catch up to reality.
 
@@ -66,7 +68,7 @@ The key move here is naming the gap between your actual responsibilities and you
 
 **Delivery:** in person, scheduled specifically for this conversation, not folded into a general check-in.
 
-## 3. The competing-offer script
+## 3. The Competing-Offer Script
 
 This is your strongest leverage position, and also the one people most often fumble by either bluffing or caving too fast.
 
@@ -76,23 +78,23 @@ Two things matter enormously here. First, never bluff an offer you don't actuall
 
 **Delivery:** in person or a scheduled call, never by email, this conversation needs real-time back-and-forth.
 
-## 4. The teacher's script (genuinely different mechanics)
+## 4. The Teacher's Script (genuinely different mechanics)
 
 Teaching doesn't work like the rest of this list, and most generic negotiation advice completely ignores that. Teacher pay follows fixed step-and-lane salary schedules set by district contracts, not individual negotiation with a manager. National step averages currently run roughly **$41,000 to $45,000** at Step 1, climbing to **$70,000 to $97,000** by Step 20 or beyond, varying significantly by state and district.
 
 The real leverage points aren't "can I have more money." They're these two specific moves:
 
-**At hire, negotiate your step placement.** If you have prior teaching experience, even from a different district or state, ask explicitly whether it can be credited toward your starting step, rather than accepting placement at Step 1 by default.
+**At hire, negotiate your step placement:** If you have prior teaching experience, even from a different district or state, ask explicitly whether it can be credited toward your starting step, rather than accepting placement at Step 1 by default.
 
 > "I have [X] years of prior teaching experience at [district/state]. Before I accept this offer, I'd like to understand whether that experience can be credited toward my step placement here, and if so, what documentation you need from me to make that happen."
 
-**Mid-career, pursue a lane change.** Additional coursework or an advanced degree can move you to a higher-paying column on the same schedule. This is a documentation and timing conversation, not a persuasion one.
+**Mid-career, pursue a lane change:** Additional coursework or an advanced degree can move you to a higher-paying column on the same schedule. This is a documentation and timing conversation, not a persuasion one.
 
 > "I'm planning to complete [specific coursework/degree] by [date]. Can you walk me through exactly what's required for a lane change, and the deadline for submitting it so it applies for next year's schedule?"
 
 **Delivery:** email for the lane-change logistics (you want a paper trail), in person for the initial hiring step-placement conversation.
 
-## 5. The hourly and frontline worker script
+## 5. The Hourly and Frontline Worker Script
 
 Retail, banking tellers, restaurant staff, this group has a different power dynamic and a shorter runway, but the leverage still exists, especially amid real turnover costs employers.
 
@@ -102,7 +104,7 @@ For context, retail assistant managers currently average around **$17/hour**, st
 
 **Delivery:** in person, directly with your shift supervisor or store manager, ideally scheduled rather than caught in passing.
 
-## 6. The tech and finance script
+## 6. The Tech and Finance Script
 
 In fields where market data moves fast and is genuinely well-documented, your strongest weapon isn't emotion. It's the number itself.
 
@@ -112,7 +114,7 @@ For reference, mid-level tech roles currently run roughly **$130,000 to $185,000
 
 **Delivery:** in person or video call, with the data visible on a shared screen or sent ahead of time so they've seen it before the conversation starts.
 
-## 7. The healthcare and nursing script
+## 7. The Healthcare and Nursing Script
 
 Healthcare pay varies enormously by specialization, and that variation is itself a lever.
 
@@ -122,9 +124,9 @@ For context, staff and charge nurses typically reach **$80,000 to $95,000** afte
 
 **Delivery:** in person with your unit manager or HR, scheduled, not during a shift change.
 
-## 8. The script for when they say no
+## 8. The Script for When They Say No
 
-This is the one almost nobody prepares for, and it's often where the real negotiation actually happens.
+This is the one almost nobody prepares for, and it's often where the real negotiation actually happens. In two of my past 9-to-5 jobs, I found myself in this exact situation and fumbled both times. You shouldn't be caught unaware.
 
 > "I understand budget is tight right now. Can we agree on a specific number and a specific timeline, say, revisiting this in [3-6 months], with clear criteria for what would get me there? I'd like something concrete to work toward rather than leaving it open-ended."
 
@@ -132,7 +134,7 @@ A no without a plan is a dead end. A no with a number and a date attached is jus
 
 **Delivery:** in the same conversation as the original ask, immediately after the no, don't let the moment pass without securing a follow-up commitment.
 
-## 9. The email script
+## 9. The Email Script
 
 Sometimes you genuinely can't get a live conversation scheduled, or you want a written record before a verbal follow-up. This isn't a lesser version of asking, it's a different, equally legitimate format.
 
@@ -149,7 +151,7 @@ Notice this email doesn't try to close the negotiation in writing. It opens the 
 
 **Delivery:** email, specifically as a scheduling tool to get the live conversation on the calendar, not as the negotiation itself.
 
-## 10. The silence script
+## 10. The Silence Script
 
 This one isn't really words. It's what you do right after you say your number.
 
@@ -165,10 +167,16 @@ Then stop again.
 
 ## Putting it together
 
-None of these scripts work by magic. They work because they follow the same underlying pattern the research keeps confirming: lead with a specific number, back it with real evidence, ask a direct question instead of making a flat demand, and don't fill the silence that follows. Pick the script that actually matches your situation, adjust the specifics to your real numbers and accomplishments, and use it.
+None of these scripts work by magic. They work because they follow the same underlying pattern the research keeps confirming: lead with a specific number, back it with real evidence, ask a direct question instead of making a flat demand, and don't fill the silence that follows.
 
-If imposter syndrome is the thing actually stopping you from opening this conversation in the first place, not the words themselves, [How to Monetize Your Knowledge Even If You Feel Like an Imposter](/blog/monetize-your-knowledge) tackles that directly, and it pairs naturally with everything above.
+Pick the script that actually matches your situation, adjust the specifics to your real numbers and accomplishments, and use it.
 
-Next: [How to Win Business Deals and a Man's Heart](/blog/confidence-is-data)
+You're probably asking for a pay raise because your paycheck doesn't seem to be enough and you're always broke. [How to Save Money in the New Year: The Anti-Broke Budget](/blog/anti-broke-budget) will give you real insight on insulating yourself with an anti-broke budget, especially going into a new year.
+
+You may eventually get the raise, so preparing ahead for your spending and how you apportion it matters just as much as getting there. Read [How to Spend $8,000 and Not Go Broke: A Real Allocation Plan for Young Savers](/blog/spend-8k-wisely) to guard against splurging or mismanaging it once it lands.
+
+You also need to understand that a 9-to-5 job can genuinely be used to build wealth and reach millionaire status. Read [How Millionaires Get Rich: The 4 Paths and The One That Fits You](/blog/4-paths-to-becoming-a-millionaire) to find out exactly how that's possible.
+
+Next: [Income vs Wealth: Why High Earners Go Broke and The Lessons](/blog/income-is-not-wealth)
 
 *Salary figures, raise percentages, and statistics cited above are drawn from publicly available compensation surveys and research current as of the time of writing, and vary significantly by company, location, experience level, and market conditions. They're included as general context to inform your own research, not as a guarantee of what you'll be offered. Always research your specific role, location, and company before entering a negotiation.*
