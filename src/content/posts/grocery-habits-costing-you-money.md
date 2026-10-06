@@ -1,5 +1,5 @@
 ---
-title: "10 Grocery Habits Costing You $300+ a Month (What I Stopped and What I Buy Instead)"
+title: "10 Grocery Habits Costing You $300+ a Month (My $75/Week Grocery List)"
 excerpt: "I tracked two months of grocery receipts line by line and found 10 quiet habits draining over $300 a month. Here's what they are, and what I buy now instead."
 segment: "money-foundations"
 icon: "cart"
