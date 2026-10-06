@@ -1,5 +1,5 @@
 ---
-title: "How to Ask for a Pay Raise at Work: 10 "Boss Approved" Negotiation Scripts That Work"
+title: "How to Ask for a Pay Raise at Work: 10 Boss Approved Negotiation Scripts That Work"
 excerpt: "Word-for-word negotiation scripts for asking for a raise, built for different real situations, backed by actual negotiation research."
 segment: "wealth-income-building"
 icon: "deal"
