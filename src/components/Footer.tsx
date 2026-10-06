@@ -14,7 +14,7 @@ export default function Footer() {
               <span className="text-gold">Sovereignty</span>
             </p>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-cream/70">
-              Where scarcity thinking ends & wealth clarity starts.
+              How to Budget, Save Money & Build Wealth From Scratch, Even on a Low Income
             </p>
           </div>
 
