@@ -1,10 +1,10 @@
 ---
 title: "ChatGPT Budget Analysis: How to Audit Your Last 3 Months of Expenses in 5 Minutes"
-excerpt: "Stop scrolling through bank statements. Copy these perfect ChatGPT prompts to analyze your last 3 months of spending, find leaks, and get a 5-minute budget audit with template"
-segment: "budgeting-money-management"
-icon: "deal"
-date: "2026-10-06"
-readTime: "8 min read"
+excerpt: "Stop scrolling through bank statements. Copy this one ChatGPT prompt to analyze your last 3 months of spending, find leaks, and get a 5-minute budget audit with template."
+segment: "money-foundations"
+icon: "search"
+date: "2026-10-04"
+readTime: "11 min read"
 ---
 
 There used to be a very specific kind of help you needed to actually understand where your money went. Not a budgeting app that just categorizes your Starbucks runs for you, but rather real analysis. Someone who could sit with three months of statements, spot the pattern you couldn't see, and tell you plainly what was actually draining you. That meant a financial advisor, an accountant, or a very patient, very honest friend in finance, and most of us never had access to any of the three.
@@ -112,7 +112,7 @@ This version is genuinely more private, since the only thing that ever touches C
 
 **Don't upload sensitive information you don't have to.** Before uploading anything, redact account numbers, card numbers, your full address, and your legal name if you can. You only need dates, transaction descriptions, categories, and amounts for this analysis to work.
 
-**Know what happens to your data based on your plan.** If you're using a Free or Plus account, assume uploaded files may be used to help train the model unless you've specifically opted out in your settings, since both tiers include training by default. Only Team and Enterprise accounts are excluded from training by default. Files do eventually get deleted across plans, though the exact retention period isn't published and varies by plan. This isn't meant to scare you off the method, it's meant to help you make an actually informed choice about which version of this process, direct upload or the local script, fits your comfort level.
+**Know what happens to your data based on your plan.** If you're using a Free or Plus ChatGPT account, assume uploaded files may be used to help train the model unless you've specifically opted out in your settings, since both tiers include training by default. Only Team and Enterprise accounts are excluded from training by default. Files do eventually get deleted across plans, though the exact retention period isn't published and varies by plan. This isn't meant to scare you off the method, it's meant to help you make an actually informed choice about which version of this process, direct upload or the local script, fits your comfort level.
 
 **Don't blindly trust totals pulled from a PDF.** If you had to use a PDF because your bank doesn't offer CSV export, spot-check a few of ChatGPT's category totals against your actual statement before treating them as gospel. This is exactly the data-messiness problem the CSV approach, or the local script method, is designed to avoid entirely.
 
