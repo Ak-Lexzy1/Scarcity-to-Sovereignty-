@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT Budget Analysis: How to Audit Your Last 3 Months of Expenses in 5 Minutes"
-excerpt: "Stop scrolling through bank statements. Copy this one ChatGPT prompt to analyze your last 3 months of spending, find leaks, and get a 5-minute budget audit with template."
+excerpt: "Copy this one ChatGPT prompt to analyze your last 3 months of spending, find real leaks, and get a full 5-minute budget audit with a free template."
 segment: "money-foundations"
 icon: "search"
 date: "2026-10-04"
