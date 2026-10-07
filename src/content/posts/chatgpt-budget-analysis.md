@@ -111,15 +111,15 @@ This version is genuinely more private, since the only thing that ever touches C
 
 ## Common mistakes to avoid
 
-**Don't upload sensitive information you don't have to.** Before uploading anything, redact account numbers, card numbers, your full address, and your legal name if you can. You only need dates, transaction descriptions, categories, and amounts for this analysis to work.
+**Don't upload sensitive information you don't have to:** Before uploading anything, redact account numbers, card numbers, your full address, and your legal name if you can. You only need dates, transaction descriptions, categories, and amounts for this analysis to work.
 
-**Know what happens to your data based on your plan.** If you're using a Free or Plus ChatGPT account, assume uploaded files may be used to help train the model unless you've specifically opted out in your settings, since both tiers include training by default. Only Team and Enterprise accounts are excluded from training by default. Files do eventually get deleted across plans, though the exact retention period isn't published and varies by plan. This isn't meant to scare you off the method, it's meant to help you make an actually informed choice about which version of this process, direct upload or the local script, fits your comfort level.
+**Know what happens to your data based on your plan:** If you're using a Free or Plus ChatGPT account, assume uploaded files may be used to help train the model unless you've specifically opted out in your settings, since both tiers include training by default. Only Team and Enterprise accounts are excluded from training by default. Files do eventually get deleted across plans, though the exact retention period isn't published and varies by plan. This isn't meant to scare you off the method, it's meant to help you make an actually informed choice about which version of this process, direct upload or the local script, fits your comfort level.
 
-**Don't blindly trust totals pulled from a PDF.** If you had to use a PDF because your bank doesn't offer CSV export, spot-check a few of ChatGPT's category totals against your actual statement before treating them as gospel. This is exactly the data-messiness problem the CSV approach, or the local script method, is designed to avoid entirely.
+**Don't blindly trust totals pulled from a PDF:** If you had to use a PDF because your bank doesn't offer CSV export, spot-check a few of ChatGPT's category totals against your actual statement before treating them as gospel. This is exactly the data-messiness problem the CSV approach, or the local script method, is designed to avoid entirely.
 
-**Don't stop at the categories, chase the trend.** A category being your single biggest expense isn't automatically a problem, housing usually is your biggest expense, and that's normal. A category quietly climbing month over month, with no clear reason, is the one that actually deserves your attention.
+**Don't stop at the categories, chase the trend:** A category being your single biggest expense isn't automatically a problem, housing usually is your biggest expense, and that's normal. A category quietly climbing month over month, with no clear reason, is the one that actually deserves your attention.
 
-**Don't skip the fix step.** The analysis is genuinely the easy part. Writing down the specific change and the specific dollar target in the Leaks & Fixes tab is the part that actually moves your numbers.
+**Don't skip the fix step:** The analysis is genuinely the easy part. Writing down the specific change and the specific dollar target in the Leaks & Fixes tab is the part that actually moves your numbers.
 
 If you want to keep tracking after this one audit instead of treating it as a one-time exercise, the [Free Monthly Budget Planner](/blog/free-budget-planner) gives you an ongoing system to build on top of what this audit just revealed.
 
