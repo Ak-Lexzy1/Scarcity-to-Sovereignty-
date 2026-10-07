@@ -85,7 +85,7 @@ export default async function BlogPostPage({
           )}
         </div>
       <div
-        className="prose prose-lg mx-auto max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-a:text-red-600 prose-blockquote:border-gold prose-blockquote:font-serif prose-blockquote:text-navy prose-strong:text-navy"
+        className="prose prose-lg mx-auto max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-a:text-red-600 prose-blockquote:border-gold prose-blockquote:font-serif prose-blockquote:text-navy prose-strong:text-navy prose-table:text-sm prose-th:bg-navy prose-th:text-cream prose-th:font-semibold prose-td:border prose-td:border-navy/10 prose-th:border prose-th:border-navy/10"
         dangerouslySetInnerHTML={{ __html: post!.contentHtml }}
       />
 <AdSlot label="Ad Slot — End of Post" />
