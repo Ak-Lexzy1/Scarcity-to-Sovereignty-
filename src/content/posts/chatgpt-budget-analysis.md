@@ -81,7 +81,7 @@ A few things to actually pay attention to once the analysis comes back.
 
 This is where most "AI budget hack" content stops, right after the exciting part, and leaves you with an interesting chat log and nothing to actually do with it. That's not useful. An analysis without a next step is just a more sophisticated way of feeling bad about your spending.
 
-Grab the free  I built specifically to pair with this process. It has five tabs:
+Grab the free [3-Month Budget Audit Template](/downloads/3-Month-Budget-Audit-Template.xlsx) I built specifically to pair with this process. It has five tabs:
 
 - A quick instructions page, a spot to paste your categorized transactions
 - A category summary that calculates your 3-month totals and monthly averages automatically
