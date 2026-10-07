@@ -3,7 +3,7 @@ import NewsletterForm from "@/components/NewsletterForm";
 
 export const metadata: Metadata = {
   title: "About Me",
-  description: "The story behind Scarcity to Sovereignty — and why this blog exists.",
+  description: "The story behind Scarcity 2 Sovereignty — and why this blog exists.",
 };
 
 export default function AboutPage() {
@@ -11,160 +11,151 @@ export default function AboutPage() {
     <div className="mx-auto max-w-3xl px-6 py-20 md:px-10">
       <p className="text-center text-[11px] uppercase tracking-[0.25em] text-gold">About Me</p>
       <h1 className="mt-3 text-center font-serif text-3xl font-semibold leading-tight text-navy md:text-5xl">
-        As a Kid, I Thought Money Was the Problem. Turns Out, It Was. Just Not
-        the Way I Thought.
+        About Me: From Scarcity to Sovereignty
       </h1>
 
-      <div className="prose prose-lg mx-auto mt-14 max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-strong:text-navy">
+      <div className="prose prose-lg mx-auto mt-14 max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-a:text-red-600 prose-strong:text-navy">
+        <p>Hi, it&rsquo;s great having you here in my online space.</p>
+
         <p>
-          I like to call myself &ldquo;The Sovereign Being.&rdquo; I know
-          that phrase gets attached to God, or to rulers, in most
-          people&rsquo;s minds. Well, I&rsquo;m not claiming to be above
-          anyone. I&rsquo;m claiming that I&rsquo;m finally under no one. I
-          own my time and my choices, and that&rsquo;s what sovereignty
-          actually means to me: becoming sovereign from the inside out, in
-          mind, in money, and in meaning.
+          I write as and call myself The Sovereign Being. It&rsquo;s a pen
+          name I chose long before this blog existed, and it&rsquo;s not
+          because I&rsquo;m above anyone. Sovereignty to me means I&rsquo;m
+          finally under no one. I own my time, my choices, and my
+          relationship with money from the inside out.
         </p>
 
         <p>
-          I adopted this identity long before I ever thought about starting
-          a blog, and it&rsquo;s where the blog&rsquo;s name actually came
-          from.
+          And it&rsquo;s where the name of this blog came from. I share
+          real, lived experiences here, but I don&rsquo;t share names, exact
+          locations, or too much identifying detail, aside from notable names
+          known to the public. The lessons are real, while the privacy is
+          intentional.
         </p>
 
         <p>
-          If you&rsquo;ve ever come from a place where there never seemed to
-          be enough, of anything, money, time, stability, you&rsquo;re in
-          the right place. Your reign starts here. But before I get to that,
-          here&rsquo;s what my world looked like before I ever got close to
-          sovereignty.
+          I believe this is due to my extremely introverted nature, because
+          I&rsquo;m a loner at heart. Ironically, I still enjoy good company,
+          and I&rsquo;ve been told that I&rsquo;m very approachable and easy
+          to get along with.
+        </p>
+
+        <h2>Where I Started</h2>
+        <p>
+          I grew up in a small town with my parents and four siblings. Money
+          was always tight. We lived paycheck to paycheck for as long as I
+          can remember, and that was the atmosphere I knew as normal.
         </p>
 
         <p>
-          Growing up in a small town in Kentucky with my parents and four
-          siblings, three older, one younger, my relationship with money was
-          really a relationship with fear. My mom told me my dad gambled away
-          what we had shortly before I was born. They (my parents & 3 older siblings) moved to the town where I
-          and my younger sibling were later born, and we were all struggling financially
-          from the start.
+          That environment shaped how I thought. For years, I believed
+          wealth wasn&rsquo;t realistic for someone like me. It was an
+          abstract concept. My mind stored that scarcity as fact.
         </p>
 
         <p>
-          That struggle wasn&rsquo;t a phase. It was the whole atmosphere I
-          grew up in, because right from my childhood, we were living inside
-          that reality, and my parents lived paycheck to paycheck.
+          I carried it into college. I turned down opportunities because
+          they felt too big. I remember a classmate making $2,000 a month
+          from an online business in her dorm. I didn&rsquo;t ask how. I
+          assumed it was a scheme. I did the same with a small beauty
+          business I ran before college. I undercharged, avoided investing,
+          and it closed within a year.
         </p>
 
         <p>
-          I remember my eldest sibling getting into a fight with some of the
-          locals and getting badly injured. We lost him four days later to
-          his injuries, before my dad could get him to another town&rsquo;s
-          hospital with better facilities. I was so shaken that it took me
-          months before I could become really social again.
+          No budgeting template fixed that, because the problem wasn&rsquo;t
+          the numbers. It was the mindset behind them.
         </p>
 
         <p>
-          Wealth felt like an abstract concept to me. The mind is like a
-          memory card that stores experiences, assumptions, and beliefs about
-          what&rsquo;s normal, and I grew up believing I may never be rich or
-          wealthy, because it had never been my reality. I built my whole
-          idea of what was possible around the capacity of my mind.
+          After college, I worked 6 different jobs. Two permanent night
+          shifts, one odd job, and 3 regular 9-5s.
+        </p>
+
+        <h2>The Shift That Changed My Life</h2>
+        <p>
+          I attended a wealth and mindset summit in Nashville, Tennessee,
+          almost on a whim. It was the first time I understood that
+          financial freedom starts in the mind long before you imagined it,
+          eventually showing up in a bank account.
         </p>
 
         <p>
-          Despite struggling to get myself into college, I unconsciously
-          carried that scarcity mindset with me the entire way.
+          Change wasn&rsquo;t overnight. It was slow and often frustrating.
+          But learning to identify scarcity thinking and replace it with
+          practical, consistent money habits changed the direction of my
+          life.
+        </p>
+
+        <h2>Why I Started Scarcity 2 Sovereignty</h2>
+        <p>
+          I started this blog in 2026 to document what I&rsquo;m actively
+          learning and using to build real wealth from a low-income starting
+          point.
         </p>
 
         <p>
-          I avoided and turned down opportunities that felt too big before I
-          even tried them, and assumed certain lifestyles were unrealistic.
-          Because tell me how it&rsquo;s supposed to feel realistic for a
-          fellow college student to be making two grand monthly from a
-          business she claimed to run online from her dorm.
-        </p>
-
-        <p>
-          I could have at least asked to be taught or shown what it was, but
-          I didn&rsquo;t, because I felt it might be some kind of scheme.
-          That was just one of many opportunities I could have tried. The
-          capacity of my mind at the time dissuaded me. Gosh, I feel really
-          ashamed thinking back on these things.
-        </p>
-
-        <p>
-          There was actually a time I ran a small business before college,
-          selling handmade goods locally. I undercharged constantly,
-          terrified that asking for what I was worth would scare customers
-          away. It fell apart within a year. I was so afraid of spending
-          money that I couldn&rsquo;t see the spending that would have
-          actually grown it.
-        </p>
-
-        <p>
-          I made every decision from scarcity without realizing that&rsquo;s
-          what I was doing, and no amount of budgeting advice fixed it,
-          because the problem was never really the numbers on the page.
-        </p>
-
-        <p>
-          Then I attended a wealth and mindset summit in Nashville,
-          Tennessee, almost on a whim, and I felt it within me like "Haa, this is it". It dawned on me afterwards that change does not happen overnight.
-          It was slow and often frustrating. In fact, I almost gave up and accepted average was my destiny. But my perseverance paid off in the end, and
-          it changed the direction of my entire life.
-        </p>
-
-        <p>
-          <strong>
-            Scarcity 2 Sovereignty exists because I had to learn, the hard
-            way, that financial freedom starts in the mind long before it
-            shows up in a bank account.
-          </strong>
-        </p>
-
-        <p>
-          This isn&rsquo;t written from a place of &ldquo;I&rsquo;ve made it,
-          let me tell you how.&rdquo; It&rsquo;s written from how I&rsquo;ve
-          been actively building both actual wealth and a healthier mind and
-          relationship with money. The habits, the mindset shifts, the
-          mistakes, the lessons. All of it, as it happens.
+          This is not an &ldquo;I&rsquo;ve made it&rdquo; blog. It&rsquo;s a
+          &ldquo;here&rsquo;s what&rsquo;s working while I build it&rdquo;
+          blog. In some of the blog posts, I share personal stories from my
+          experiences, family, and upbringing to explain the lesson, but
+          never to expose private identities.
         </p>
 
         <h2>What You&rsquo;ll Find Here</h2>
+        <ol>
+          <li>
+            <strong>Practical money habits for people starting from
+            behind.</strong> Budgeting for beginners, the cash envelope
+            system, saving on a low income, how to have fun on a budget,
+            frugal lifestyle, and investing to build generational wealth.
+          </li>
+          <li>
+            <strong>Honest writing on money mindset.</strong> How scarcity
+            quietly runs your decisions and how to shift it.
+          </li>
+          <li>
+            <strong>Verified financial help.</strong> Every assistance
+            program, grant, FAFSA guide, ACA resource, and more that I share
+            is thoroughly researched and verified before I publish, linking
+            directly to its official .gov or .org source.
+          </li>
+        </ol>
+
+        <p>
+          No get-rich-quick promises. No inflated income claims. Just real
+          steps toward frugal living, abundance mindset, financial literacy,
+          and freedom.
+        </p>
+
+        <h2>My Commitment to Trust</h2>
+        <p>
+          Because I strongly believe trust should not just be handed out
+          cheaply, I work harder to earn yours:
+        </p>
         <ul>
-          <li>
-            Practical, no-fluff money habits for people starting from
-            behind, not ahead.
-          </li>
-          <li>
-            Honest writing on mindset: how scarcity thinking quietly runs
-            your decisions, and how to actually shift it, from someone
-            who&rsquo;s lived both sides of it.
-          </li>
-          <li>
-            Helpful verified resources on getting financial support/assistance around
-            Money-specific crisis, Healthcare & wellbeing, Education etc.
-          </li>
-          <li>
-            No get-rich-quick promises and no inflated income claims. Just
-            real, consistent steps toward wealth, financial literacy, and
-            freedom.
-          </li>
+          <li>I share methods I am actively using, with real examples.</li>
+          <li>I link every resource to its official source.</li>
+          <li>I update posts when deadlines, costs, or rules change.</li>
         </ul>
 
         <h2>A Quick Honesty Note</h2>
         <p>
-          I&rsquo;m not a licensed financial advisor, and nothing here is
-          formal financial advice. Everything on this blog comes from real
-          experience, ongoing research, and continuous learning, shared
-          openly as I go. Always do your own due diligence before making
-          financial decisions.
+          I am not a licensed financial advisor, and nothing on this site is
+          formal financial advice. Everything I write and share comes from
+          personal experience, ongoing research, and continuous learning.
+          Always do your own due diligence before making financial
+          decisions.
         </p>
 
         <p>
-          If any part of this sounds like where you are right now,
-          you&rsquo;re welcome here.
-          Also, you can join my mailing list by subscribing to the Newsletter where I share exclusive content and insights reserved for my inner circle. 
+          If you&rsquo;ve ever come from a place where there never seemed to
+          be enough, money, time, or stability, you&rsquo;re in the right
+          place.
+        </p>
+
+        <p>
+          <strong>Your reign starts here.</strong>
         </p>
       </div>
 
@@ -173,4 +164,4 @@ export default function AboutPage() {
       </div>
     </div>
   );
-}
+          }
