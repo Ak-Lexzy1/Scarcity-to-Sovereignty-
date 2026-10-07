@@ -15,15 +15,15 @@ You don't need to be tech-savvy. You don't need to pay for anything. You just ne
 
 Here's exactly how to do it.
 
-Before we get into it, here's what I'm covering:
+**Before we get into it, here's what I'm covering:**
 
-- Why your last 3 months of spending reveals more than a year of vague budgeting ever will
-- Exactly what you need before you open ChatGPT, and the one file format that actually works
-- The full, copy-paste prompt to run your own 5-minute financial audit
-- How to actually read what ChatGPT hands back to you, so it turns into decisions, not just numbers
-- A free spreadsheet template to turn the analysis into a real action plan
-- The privacy-conscious alternative, for a redacted, code-based version of this same method
-- The mistakes that actually matter, including what you should never upload
+**- Why your last 3 months of spending reveals more than a year of vague budgeting ever will**
+**- Exactly what you need before you open ChatGPT, and the one file format that actually works**
+**- The full, copy-paste prompt to run your own 5-minute financial audit**
+**- How to actually read what ChatGPT hands back to you, so it turns into decisions, not just numbers**
+**- A free spreadsheet template to turn the analysis into a real action plan**
+**- The privacy-conscious alternative, for a redacted, code-based version of this same method**
+**- The mistakes that actually matter, including what you should never upload**
 
 ## Why your last 3 months reveals everything about your budget
 
