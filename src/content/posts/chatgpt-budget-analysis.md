@@ -83,7 +83,8 @@ This is where most "AI budget hack" content stops, right after the exciting part
 
 Grab the free [3-Month Budget Audit Template](/downloads/3-Month-Budget-Audit-Template.xlsx) I built specifically to pair with this process. It has five tabs:
 
-- A quick instructions page, a spot to paste your categorized transactions
+- A quick instructions page
+- A spot to paste your categorized transactions
 - A category summary that calculates your 3-month totals and monthly averages automatically
 - A month-over-month trends tab that shows you exactly which categories are climbing, and,
 - A Leaks & Fixes tab where you turn what ChatGPT told you into an actual plan, with a real target savings number attached to each fix.
