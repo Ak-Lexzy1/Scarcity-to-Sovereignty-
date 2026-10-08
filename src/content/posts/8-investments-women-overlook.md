@@ -1,7 +1,7 @@
 ---
 title: "8 Best Investments for Women That Aren't Stocks"
 excerpt: "Eight investments women consistently overlook, until life sends the invoice. Start paying on your own terms instead."
-segment: "wealth-income-building"
+segment: "mindset-freedom"
 icon: "invest"
 date: "2026-08-27"
 readTime: "5 min read"
