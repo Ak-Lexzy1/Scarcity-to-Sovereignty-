@@ -1,7 +1,7 @@
 ---
 title: "How to Start Retirement Planning With No Savings in Your 30s"
 excerpt: "A direct question about your retirement plan, and why waiting until five years before retirement means you've already lost time."
-segment: "wealth-income-building"
+segment: "money-foundations"
 icon: "vault"
 date: "2026-08-27"
 readTime: "3 min read"
