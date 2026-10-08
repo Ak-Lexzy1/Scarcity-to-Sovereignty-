@@ -1,7 +1,7 @@
 ---
 title: "How to Spend $8,000 Wisely: A Real Allocation Plan for Young Savers"
 excerpt: "A real, honest breakdown of how to allocate a $8,000 windfall, from treating yourself to investing, without losing it all to impulse spending."
-segment: "wealth-income-building"
+segment: "money-foundations"
 icon: "wallet"
 date: "2026-09-24"
 readTime: "10 min read"
