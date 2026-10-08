@@ -1,7 +1,7 @@
 ---
 title: "Income vs Wealth: Why High Earners Go Broke and The Lessons"
 excerpt: "You can be a genius at making money and still be terrible at holding onto it. MC Hammer, Allen Iverson, and Michael Jackson all learned this the hard way."
-segment: "wealth-income-building"
+segment: "mindset-freedom"
 icon: "vault"
 date: "2026-08-27"
 readTime: "6 min read"
