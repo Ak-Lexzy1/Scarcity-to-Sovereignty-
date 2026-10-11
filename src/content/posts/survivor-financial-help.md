@@ -135,7 +135,7 @@ If this season is also weighing on you emotionally, [Free and Low-Cost Mental He
 
 Next: [Free and Low-Cost Mental Health Help: Real Options With No Insurance](/blog/free-mental-health-help)
 
-This isn't the only guide like this one. Whatever kind of support you're searching for, financial, medical, rent, utilities, and more, you'll find a fully verified guide for it inside the [Financial Help & Resources](/blog/category/financial-support-resources) section of this blog. It's worth bookmarking, since it's where every post like this one lives in one place.
+This isn't the only guide like this one. Whatever kind of support you're searching for, financial, medical, rent, utilities, and more, you'll find a fully verified guide for it inside the **Financial Help & Resources** section of this blog. It's worth bookmarking, since it's where every post like this one lives in one place. Check the Homepage for it amongst the four segments.
 
 *This guide is general information, not legal, financial, or safety advice, and every state and housing provider runs things differently. Compensation limits, deadlines, and funding levels reflect the sources I could verify as of the last review date, and they change often. A domestic violence advocate or legal aid attorney can tell you what applies where you live. If you are in immediate danger, call 911. For confidential support, call the National Domestic Violence Hotline at 1-800-799-7233, text START to 88788, or chat at thehotline.org.*
 
