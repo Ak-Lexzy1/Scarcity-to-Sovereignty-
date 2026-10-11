@@ -12,8 +12,7 @@ readTime: "12 min read"
 *Last reviewed: October 2026. This post is updated periodically as programs and funding change. Always confirm current details directly with the organizations linked below.*
 
 
-## Read this first, for your safety.
-
+**Read this first, for your safety.**
 _I'm not a lawyer or advocate.If you're unsafe, call 1-800-799-7233 or text START to 88788 in the US.
 If someone could be watching your phone, computer, or browsing history, open this page on a device they have never had access to. A library computer, a trusted friend's phone, or a device at a shelter all work. A "quick exit" button only helps if someone walks into the room. It does not wipe your history or block spyware. If you are in immediate danger, call **911.**
 [This is not legal advice — see full disclaimer at end.]_
