@@ -14,16 +14,16 @@ readTime: "12 min read"
 
 ## Read this first, for your safety.
 
-I'm not a lawyer or advocate.If you're unsafe, call 1-800-799-7233 or text START to 88788 in the US.
+_I'm not a lawyer or advocate.If you're unsafe, call 1-800-799-7233 or text START to 88788 in the US.
 If someone could be watching your phone, computer, or browsing history, open this page on a device they have never had access to. A library computer, a trusted friend's phone, or a device at a shelter all work. A "quick exit" button only helps if someone walks into the room. It does not wipe your history or block spyware. If you are in immediate danger, call **911.**
-[This is not legal advice — see full disclaimer at end.]
+[This is not legal advice — see full disclaimer at end.]_
 
 
 Most people assume the hardest part of leaving is the leaving. For many survivors, the harder stretch comes afterward: a bank account that was never really yours, a credit report you're afraid to open, and a rent payment with nothing behind it. Money is often what keeps someone in an unsafe home longer than they wanted to stay, and what makes starting over feel impossible once they're out.
 
 That isn't a failing on your part, and it isn't rare. Real help exists for the money side of this, and some of it is legally yours by right. Some of it also has limits nobody mentions up front, and you deserve to hear those before you count on anything. This guide covers all of it, and it applies to survivors of any gender.
 
-Here's what I'm covering before delving into the full conversation:
+**Here's what I'm covering before delving into the full conversation:**
 
 - How financial abuse works, and how common it really is.
 - Who to call first, and the one thing the national hotline can't do for you.
