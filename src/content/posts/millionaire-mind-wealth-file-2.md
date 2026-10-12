@@ -76,4 +76,3 @@ Once you've worked through those three actions, I'd love to hear what winning lo
 Next: [The Mindset Shift Before The Money Shift Can Happen](/blog/mindset-before-money)
 
 *This post is a personal reflection on ideas from a published book and general financial education, not financial advice. The book's framing reflects the author's perspective, not settled research. Net worth targets, investing, and risk decisions depend on your own situation, so consider speaking with a licensed financial professional before acting.*
-```
