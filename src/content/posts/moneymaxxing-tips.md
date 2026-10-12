@@ -1,5 +1,5 @@
 ---
-title: "Moneymaxxing: 10 Unique Ways to Make Your Money Work Harder For You This Year"
+title: "Moneymaxxing: 10 Genius Ways to Make Your Money Work Harder For You This Year"
 excerpt: "Moneymaxxing is the new money trend, but most posts stop at cancelling subscriptions. Here are 10 deeper moves that make your money work harder, plus a playbook to follow."
 segment: "money-foundations"
 icon: "compound"
