@@ -29,9 +29,11 @@ By the time I list them out below with a detailed explanation, I think you're go
 
 **Statistics to back my claim:** A December 2025 investigation by Consumer Reports and Groundwork Collaborative found that Instacart's AI pricing system shows different prices to different shoppers for the exact same item, in the exact same store, at the exact same time, by as much as 23%. Scaled across a typical household's annual grocery spend, that pattern alone adds an estimated $1,200 a year for a family of four. Isn't that insanely surprising, that we're being subtly fleeced?
 
+**Important update:** Instacart ended the item price tests in December 2025 and said from now on if two families shop for the same items at the same time from the same store location on Instacart they see the same prices. 
+
 **Why we all do it:** convenience wins, especially on a busy week, and the app's total doesn't exactly scream "you're being charged a different price than your neighbor" until you've already checked out.
 
-**What to do instead:** when you can, shop in person for your biggest trip of the month, and reserve delivery for genuinely urgent, small top-up orders where the markup on two or three items barely matters.
+**What to do instead:** Instacart has rightfully made a good move to be fair to all. Nevertheless, when you can, shop in person for your biggest trip of the month, and reserve delivery for genuinely urgent, small top-up orders where the markup on two or three items barely matters.
 
 ## 2. Letting food quietly die in the back of the fridge
 
