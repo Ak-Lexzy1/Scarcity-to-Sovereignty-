@@ -7,11 +7,11 @@ date: "2026-10-15"
 readTime: "17 min read"
 ---
 
-*Last reviewed: October 2026. Grocery prices shift by city and store, so treat every dollar figure below as a planning range and check your own store's prices.*
+*Note: Grocery prices shift by city and store, so treat every dollar figure below as a planning range and check your own store's prices.*
 
 POV: It's your first Thanksgiving away from home, your apartment is about 400 square feet or slightly bigger, your budget is $150 to $200, and you're wondering how you're supposed to pull this off.
 
-Here's a truth nobody says out loud: everyone expects the big family-style spread, and you're working with a tiny kitchen, a small oven and a 9-to-5 paycheck, or maybe an online hustle. The pressure is real. So is the Pinterest board you've been quietly scrolling at all hours and refreshing at midnight.
+One truth I'll tell you which nobody often says out loud is that, everyone expects the big family-style spread, and you're working with a tiny kitchen, a small oven and a 9-to-5 paycheck, or maybe an online hustle. The pressure is real. So is the Pinterest board you've been quietly scrolling at all hours and refreshing at midnight.
 
 I have good news for you: you can host a Thanksgiving that looks expensive and feels warm without wrecking your bank account. This post gives you a realistic budget, a small-space plan, a simple menu with a full shopping list, decor that doesn't look cheap and a timeline built for people who work. There's also a free Thanksgiving budget planner and checklist that keeps it all in one place, and you'll find it at the end of this post.
 
@@ -21,7 +21,7 @@ Let's get one thing straight. You are not recreating a 20-person dinner with thr
 
 Your version has 4 to 6 people. That's my rule for first-time hosts, and I'll defend it. A small guest list means one oven load, one set of dishes you can actually wash, and a table everyone can reach. It's more intentional, cheaper and far less stressful.
 
-### What Thanksgiving Costs If You Don't Have a Plan
+### • What Thanksgiving Costs If You Don't Have a Plan
 
 The American Farm Bureau Federation prices a classic dinner for ten every year. Its latest published number, from 2025, was $55.18, or about $5.52 per person. The 16-pound frozen turkey in that basket averaged $21.50. The 2026 survey usually comes out in November, so it isn't published yet as I write this.
 
@@ -33,7 +33,7 @@ The food itself, planned well, runs about $80 to $105 for 4 to 6 people. The res
 
 ## The Realistic $150 to $200 Thanksgiving Budget Breakdown
 
-Here's where your money goes. I checked what I could against current prices, and I'll tell you which numbers are solid and which are estimates.
+Where your money goes. I checked what I could against current prices, and I'll tell you which numbers are solid and which are estimates.
 
 | Category | What you're buying | Plan for |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ The sides, dessert, drinks, linen and thrifted tableware are my planning estimat
 
 ## Small Apartment Space Hacks
 
-### No Dining Table, No Problem
+### • No Dining Table, No Problem
 
 You have three good options.
 
@@ -66,7 +66,7 @@ You have three good options.
 
 Whichever you choose, borrow a folding chair or two. Ask a neighbor or a friend before you buy anything.
 
-### Cooking With a Tiny Oven
+### • Cooking With a Tiny Oven
 
 Your oven is a shared resource, so schedule it like one. Here's the rule: the turkey gets the oven first, and everything else works around it.
 
@@ -80,7 +80,7 @@ Your oven is a shared resource, so schedule it like one. Here's the rule: the tu
 
 **Skip the roasting pan if you buy rotisserie:** Reheat the chickens covered at 325°F until they hit 165°F inside. Consumer Reports also suggests moving them out of the plastic container for reheating.
 
-### Storage and Prep
+### • Storage and Prep
 
 **Cook and stack in the same pots:** Use the potato pot for the mac sauce after a quick wash. Fewer pots, less cleanup.
 
@@ -94,7 +94,7 @@ You don't need ten dishes. One main, a few sides and one dessert is enough, and 
 
 Note: The cooking and baking suggestions below aren't 100% mine. I got a heads-up from a cooking guide plus a little chat with a chef friend (lol).
 
-### The Main: Turkey Breast or Rotisserie Chicken
+### • The Main: Turkey Breast or Rotisserie Chicken
 
 A whole turkey is a bad fit for a small apartment. A 12-pound bird needs oven space you don't have, days of thawing in your fridge and a pile of leftovers you'll be tired of by Saturday.
 
@@ -104,7 +104,7 @@ Two rotisserie chickens are the lowest-effort option. They cost little, need no 
 
 **Safety notes from the USDA:** Thaw frozen turkey in the fridge, allowing about 24 hours for every 4 to 5 pounds. Cook to 165°F. Refrigerate leftovers within two hours.
 
-### The Sides
+### • The Sides
 
 **Garlicky mashed potatoes:** Boil 3 pounds of peeled, chunked potatoes until fork-tender, about 20 minutes. Drain, then mash with a stick of butter, a splash of warm milk or cream and 3 or 4 roasted or sautéed garlic cloves. Taste for salt. Make them Wednesday and reheat on the stove with a little milk.
 
@@ -112,13 +112,13 @@ Two rotisserie chickens are the lowest-effort option. They cost little, need no 
 
 **Simple stovetop mac and cheese:** Cook 1 pound of elbow macaroni. In the same pot, melt 3 tablespoons butter, whisk in 3 tablespoons flour for a minute, then slowly add 3 cups milk until thick. Stir in about 12 ounces of shredded cheddar and a handful of a second cheese. Combine with the pasta. A little mustard powder and salt make it taste like more than the sum of its parts.
 
-### The Dessert: No-Bake Pumpkin Cheesecake Cups
+### • The Dessert: No-Bake Pumpkin Cheesecake Cups
 
 No oven needed, and you make it the night before. This makes about 6 cups.
 
 Beat one 8-ounce block of softened cream cheese with 1 cup canned pumpkin puree (not pie filling), half a cup of powdered sugar, 1 teaspoon pumpkin pie spice and 1 teaspoon vanilla. Whip 1 cup of cold heavy cream to stiff peaks and fold it in gently. Crush about 8 graham cracker sheets with 3 tablespoons melted butter for the base. Layer crumbs and filling into small cups or jars, then chill at least 4 hours.
 
-### Full Shopping List for 4 to 6 People
+### • Full Shopping List for 4 to 6 People
 
 | Category | Item and quantity |
 | --- | --- |
@@ -137,11 +137,11 @@ A meat thermometer is the one tool I'd tell you to buy if you don't own one. It 
 
 You don't need a lot of decor. You need a few well-chosen pieces.
 
-### How to Make Dollar Tree and Target Look Expensive
+### • How to Make Dollar Tree and Target Look Expensive
 
 The trick is consistency. Pick a palette of cream, green and one warm accent like rust or gold, and stick to it. Cheap items look cheap when they clash. They look intentional when they match.
 
-### The Three Items That Elevate Everything
+### • The Three Items That Elevate Everything
 
 **A linen or muslin tablecloth:** This one thing makes a mismatched table look planned. You can reuse it for years.
 
@@ -149,11 +149,11 @@ The trick is consistency. Pick a palette of cream, green and one warm accent lik
 
 **Fresh eucalyptus:** A bunch from the grocery store floral section, laid down the center of the table, looks like something from a magazine. Prices vary, so check your store's floral aisle.
 
-### One Photo Corner
+### • One Photo Corner
 
 Pick one corner of your apartment and make it the festive spot. Hang string lights on the wall, add a throw blanket over a chair, set a few pumpkins on a small table and put a simple sign or framed print above it. It gives your guests a place to take photos and makes the whole apartment feel decorated.
 
-### Where to Splurge and Where to Save
+### • Where to Splurge and Where to Save
 
 **Splurge on:** the tablecloth, because it's reusable, and fresh greenery, because it's the thing people notice.
 
@@ -161,7 +161,7 @@ Pick one corner of your apartment and make it the festive spot. Hang string ligh
 
 ## How to Not Go Broke or Burn Out
 
-### The Potluck Script
+### • The Potluck Script
 
 Asking friends to bring something doesn't make you a bad host. It makes you a smart one. Try this:
 
@@ -169,7 +169,7 @@ Asking friends to bring something doesn't make you a bad host. It makes you a sm
 
 Give people an easy category like a bottle, a salad, rolls or a pie. Specific asks get fewer awkward replies than "bring whatever."
 
-### The Timeline for Busy People
+### • The Timeline for Busy People
 
 Thanksgiving falls on the fourth Thursday of November. Count back from there.
 
@@ -191,7 +191,7 @@ Thanksgiving falls on the fourth Thursday of November. Count back from there.
 
 Write your own version of this on paper and tape it to the fridge.
 
-### Handling the Pressure
+### • Handling the Pressure
 
 If your family expects you home, call them early. Try: "I'm hosting a small one this year. I'd love to video call during dinner." Most of the guilt lives in the waiting. Telling people early makes it easier on everybody.
 
