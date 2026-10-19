@@ -7,9 +7,6 @@ date: "2026-10-19"
 readTime: "7 min read"
 ---
 
-*Last reviewed: October 2026*
-
-# Free Debt Payoff Tracker Printable (PDF) - Snowball, Avalanche & Debt-Free Countdown
 
 I need you to picture this in your mind. You pay the card, the balance barely moves, then the statement lands again, and you wonder where the money went.
 
