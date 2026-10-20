@@ -9,8 +9,7 @@ readTime: "9 min read"
 
 *Last reviewed: October 2026*
 
-# Should You Save Money or Pay Off Debt First?
-
+## Should You Save Money or Pay Off Debt First?
 *A Guide for 9-5s, Freelancers and Business Owners*
 
 You've probably heard this a few times and may even relate to it. A thousand dollars is not the same thousand dollars for everyone.
