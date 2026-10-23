@@ -9,8 +9,6 @@ readTime: "10 min read"
 
 *Last reviewed: October 2026*
 
-# Free Credit Counseling: How to Find a Legit Agency and Avoid Debt Relief Scams
-
 I really do not want to make this intro emotional because this post is an important one. People do not need to be shown how they got here, but rather the way out of it, without feeling like they're carrying the weight of the world on their shoulders.
 
 Whether it's late at night, during your break alone at work or just having some quiet time to yourself, you've typed things into Google that you'd never say out loud. "Free credit counseling." "Debt help that's real." "Is this a scam?" etc.
