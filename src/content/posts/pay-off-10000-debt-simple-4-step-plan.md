@@ -1,4 +1,3 @@
-<!-- Filename: pay-off-10000-debt-simple-4-step-plan.md -->
 ---
 title: "How to Pay Off $10,000 of Debt Without Feeling Overwhelmed (A Simple 4-Step Plan)"
 excerpt: "Staring at a big debt number and freezing? This calm 4-step plan shows you how to list, choose, split, and buffer your way through $10,000 of debt, one paycheck at a time."
