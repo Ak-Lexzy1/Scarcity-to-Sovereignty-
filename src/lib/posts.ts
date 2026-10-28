@@ -17,6 +17,18 @@ function findPostImage(slug: string): string | undefined {
   }
   return undefined;
 }
+function findPostPin(slug: string): string | undefined {
+  const extensions = ["jpg", "jpeg", "png", "webp"];
+  const pinsDir = path.join(process.cwd(), "public/images/pins");
+
+  for (const ext of extensions) {
+    const filePath = path.join(pinsDir, `${slug}.${ext}`);
+    if (fs.existsSync(filePath)) {
+      return `/images/pins/${slug}.${ext}`;
+    }
+  }
+  return undefined;
+}
 const postsDirectory = path.join(process.cwd(), "src/content/posts");
 
 export interface PostMeta {
