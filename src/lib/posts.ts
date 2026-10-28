@@ -45,6 +45,7 @@ export interface PostMeta {
 
 export interface Post extends PostMeta {
   contentHtml: string;
+  pinImage?: string;
 }
 
 export function getAllPostSlugs(): string[] {
