@@ -6,6 +6,8 @@ import { getSegment } from "@/lib/segments";
 import { PostIcon } from "@/components/Icons";
 import Image from "next/image";
 import NewsletterForm from "@/components/NewsletterForm";
+import PinterestFollow from "@/components/PinterestFollow";
+import PinterestSaveButton from "@/components/PinterestSaveButton";
 import AdSlot from "@/components/AdSlot";
 import AffiliateDisclosure from "@/components/AffiliateDisclosure";
 export async function generateStaticParams() {
@@ -69,8 +71,9 @@ export default async function BlogPostPage({
       </div>
 <AdSlot label="Ad Slot — Top of Post" />
       {post!.hasAffiliateLinks && <AffiliateDisclosure />}
-      <div className="relative my-12 h-72 overflow-hidden rounded-xl bg-navy md:h-96">
-          {post!.image ? (
+            <div className="group relative my-12 h-72 overflow-hidden rounded-xl bg-navy md:h-96">
+        {post!.image ? (
+          <>
             <Image
               src={post!.image}
               alt={post!.title}
@@ -78,12 +81,18 @@ export default async function BlogPostPage({
               className="object-cover"
               priority
             />
-          ) : (
-            <div className="flex h-full w-full items-center justify-center">
-              <PostIcon name={post!.icon} className="h-20 w-20 stroke-gold" />
-            </div>
-          )}
-        </div>
+            <PinterestSaveButton
+              imageUrl={`https://scarcity2sovereignty.com${post!.image}`}
+              pageUrl={`https://scarcity2sovereignty.com/blog/${post!.slug}`}
+              description={post!.title}
+            />
+          </>
+        ) : (
+          <div className="flex h-full w-full items-center justify-center">
+            <PostIcon name={post!.icon} className="h-20 w-20 stroke-gold" />
+          </div>
+        )}
+      </div>
       <div
         className="prose prose-lg mx-auto max-w-none prose-headings:font-serif prose-headings:text-navy prose-p:leading-relaxed prose-p:text-ink/80 prose-a:text-red-600 prose-blockquote:border-gold prose-blockquote:font-serif prose-blockquote:text-navy prose-strong:text-navy prose-table:text-sm prose-th:bg-navy prose-th:text-cream prose-th:font-semibold prose-td:border prose-td:border-navy/10 prose-th:border prose-th:border-navy/10"
         dangerouslySetInnerHTML={{ __html: post!.contentHtml }}
@@ -92,7 +101,9 @@ export default async function BlogPostPage({
       <div className="mt-16 border-t border-navy/10 pt-10">
         <NewsletterForm />
       </div>
-
+      <div className="mt-10">
+        <PinterestFollow />
+      </div>
       <div className="mt-10 text-center">
         <Link
           href="/blog"
