@@ -1,3 +1,5 @@
+import PinterestLogo from "./PinterestLogo";
+
 interface PinterestSaveButtonProps {
   imageUrl: string;
   pageUrl: string;
@@ -18,9 +20,11 @@ export default function PinterestSaveButton({
       href={saveUrl}
       target="_blank"
       rel="noopener noreferrer"
-      className="absolute right-3 top-3 z-10 rounded-full bg-[#E60023] px-4 py-2 text-[11px] font-semibold uppercase tracking-[0.08em] text-white opacity-0 shadow-md transition hover:bg-[#c8001e] group-hover:opacity-100"
+      aria-label="Save this image to Pinterest"
+      className="absolute right-3 top-3 z-10 inline-flex items-center gap-1.5 rounded-full bg-[#E60023] px-3.5 py-2 text-[11px] font-semibold uppercase tracking-[0.08em] text-white shadow-md transition hover:bg-[#c8001e]"
     >
+      <PinterestLogo className="h-4 w-4" />
       Save
     </a>
   );
-    }
+}
