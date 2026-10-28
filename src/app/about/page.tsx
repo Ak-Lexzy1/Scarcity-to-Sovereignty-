@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import NewsletterForm from "@/components/NewsletterForm";
-
+import PinterestFollow from "@/components/PinterestFollow";
 export const metadata: Metadata = {
   title: "About Me",
   description: "The story behind Scarcity 2 Sovereignty — and why this blog exists.",
@@ -161,6 +161,9 @@ export default function AboutPage() {
 
       <div className="mt-14">
         <NewsletterForm />
+      </div>
+            <div className="mt-10">
+        <PinterestFollow />
       </div>
     </div>
   );
