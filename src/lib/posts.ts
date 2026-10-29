@@ -81,7 +81,7 @@ export function getAllPostsMeta(): PostMeta[] {
 export async function getPostBySlug(slug: string): Promise<Post> {
   const fullPath = path.join(postsDirectory, `${slug}.md`);
   const fileContents = fs.readFileSync(fullPath, "utf8");
-      pinImage: findPostPin(slug),
+  
   const { data, content } = matter(fileContents);
 
   const processedContent = await remark()
@@ -99,6 +99,7 @@ export async function getPostBySlug(slug: string): Promise<Post> {
       image: findPostImage(slug),
       date: data.date,
       readTime: data.readTime,
+      pinImage: findPostPin(slug),
       contentHtml,
     };
 }
