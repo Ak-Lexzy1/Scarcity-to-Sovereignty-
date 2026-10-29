@@ -99,6 +99,7 @@ export async function getPostBySlug(slug: string): Promise<Post> {
       image: findPostImage(slug),
       date: data.date,
       readTime: data.readTime,
+      pinImage: findPostPin(slug),
       contentHtml,
     };
 }
