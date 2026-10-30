@@ -38,6 +38,7 @@ If the free planner helps, the complete bundle goes further. It includes:
 3. An Extended Income Breakdown.
 4. A Bill Due Date Tracker.
 5. A Monthly Reflection page.
+6. A 30-Day Challenge Tracker 
 
 So as you can see, this is the full system, not just the starting point.
 
