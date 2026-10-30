@@ -7,9 +7,13 @@ date: "2026-10-12"
 readTime: "5 min read"
 ---
 
-I rarely read a book just once, because every pass catches something the last one missed. So when I recently opened T. Harv Eker's *Secrets of the Millionaire Mind* for the ninth time in three years, I was only looking for fresh insight and perspective but didn't expect a breakthrough. Wealth File #2 gave me one anyway.
+My last post was only supposed to be Wealth File #1 from Secrets of the Millionaire Mind. But I kept reading. I didn't get far before I had to stop again because I had this nudge: "Why stop at one file? Why not do all 17 files from the book?"
 
-Eker published the book in 2005 and built it around 17 "Wealth Files," his name for the thought patterns he says separate rich people from everyone else. File #2 opens with _*"Rich people play the money game to win."*_ Poor people, he argues, play mostly to avoid losing. I got a breakthrough insight from that part and closed the book immediately. I opened my laptop, and wrote down in my own words what finally clicked.
+And truly, Wealth File #2 hits differently, just as Wealth File #1 did.
+
+File #2 opens with _"Rich people play the money game to win."_ Poor people, he argues, play mostly to avoid losing. Just like Wealth File #1 gave me a breakthrough, Wealth File #2 got me thinking differently about how the rich actually play the money game.
+
+I share my thoughts below.
 
 ## What Wealth File #2 actually says
 
