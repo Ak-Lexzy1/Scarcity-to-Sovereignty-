@@ -7,7 +7,7 @@ date: "2026-10-12"
 readTime: "5 min read"
 ---
 
-My last post was only supposed to be Wealth File #1 from Secrets of the Millionaire Mind. But I kept reading. I didn't get far before I had to stop again because I had this nudge: "Why stop at one file? Why not do all 17 files from the book?"
+My last post was only supposed to be Wealth File #1 from Secrets of the Millionaire Mind and as I kept reading, I didn't get far before I had to stop again because I had this nudge: "Why stop at one file? Why not do all 17 files from the book?"
 
 And truly, Wealth File #2 hits differently, just as Wealth File #1 did.
 
