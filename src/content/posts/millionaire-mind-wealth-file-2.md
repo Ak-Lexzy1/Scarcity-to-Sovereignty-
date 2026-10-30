@@ -9,7 +9,7 @@ readTime: "5 min read"
 
 My last post was only supposed to be Wealth File #1 from Secrets of the Millionaire Mind and as I kept reading, I didn't get far before I had to stop again because I had this nudge: "Why stop at one file? Why not do all 17 files from the book?"
 
-That nudge birth this post. And truly, Wealth File #2 hits differently, just as Wealth File #1 did.
+That nudge birth this post and subsequent ones that would follow. And truly, Wealth File #2 hits differently, just as Wealth File #1 did.
 
 File #2 opens with _"Rich people play the money game to win."_ Poor people, he argues, play mostly to avoid losing. Just like Wealth File #1 gave me a breakthrough, Wealth File #2 got me thinking differently about how the rich actually play the money game.
 
