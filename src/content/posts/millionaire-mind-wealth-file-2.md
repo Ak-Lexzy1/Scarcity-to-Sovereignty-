@@ -11,8 +11,8 @@ My last post on this topic was only supposed to be Wealth File #1 from Secrets o
 
 That nudge birth this post and subsequent ones that would follow. And truly, Wealth File #2 hits differently, just as Wealth File #1 did.
 
-File #2 opens with
-> *Rich people play the money game to win. Poor people play the money game to not lose*
+File #2 opens with:
+> "*Rich people play the money game to win. Poor people play the money game to not lose*"
 
 Just like Wealth File #1 gave me a breakthrough, Wealth File #2 got me thinking differently about how the rich actually play the money game.
 
