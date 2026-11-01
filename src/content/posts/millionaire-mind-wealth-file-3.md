@@ -9,7 +9,7 @@ readTime: "6 min read"
 
 So, I've written on Wealth File #1 and Wealth File #2. This right here is Wealth File #3. If you haven't read the previous posts, check out the "Money Mindset" segment of the blog and scroll through the posts. You'll find them there. You can also find the links to them at the bottom of this post after you're done reading.
 
-In File #3, the author, T. Harv Eker, says:
+In Wealth File #3, the author, T. Harv Eker, says:
 
 > Rich people are committed to being rich. Poor people want to be rich.
 
