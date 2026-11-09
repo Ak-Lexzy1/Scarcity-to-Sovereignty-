@@ -212,7 +212,8 @@ So don't rebuild your whole financial life tonight. Do the math for one week. Mo
 
 Then come back and tell yourself how it felt. **Download my free Weekly Budget Template here** to make your first week easy.
 
-[Free Weekly Budget Template (PDF)](/downloads/weekly-budget-template.pdf)
+[Download the Free Weekly Budget Template Here (PDF)](/downloads/monthly-budget-planner-bundle.pdf)
+Note: It also contain broader budget planners. So you can decide to just download and just print the weekly planner if that's only your preference.
 
 *Next: [Free Monthly Budget Planner: Printable to Track Paychecks](/blog/free-budget-planner)*
 
