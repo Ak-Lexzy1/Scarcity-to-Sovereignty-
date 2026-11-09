@@ -269,6 +269,6 @@ If you're still deciding whether to build savings first, read [Should You Save M
 
 Next: [Free Debt Payoff Tracker Printable (PDF) - Snowball, Avalanche & Debt-Free Countdown](/blog/free-debt-payoff-tracker)
 
-> Looking for more programs that can help you with housing, utilities, healthcare, and everyday bills? Visit the [Financial Help & Resources section](/blog/category/financial-support-resources) of the blog for more verified guides.
+> Looking for more programs that can help you with housing, utilities, healthcare, and everyday bills? Visit the **Financial Help & Resources** section of the blog for more verified guides.
 
 *Disclaimer: This post is for educational purposes only and isn't financial, legal, or tax advice. Fees, plan terms, and creditor concessions vary by agency, state, and creditor, and none are guaranteed. Averages come from agency-published figures and may change. The worked example is a simplified illustration. Confirm details on official sites and with your chosen agency before enrolling, and consider speaking with a licensed professional about your situation.*
